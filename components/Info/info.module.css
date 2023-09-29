@@ -1,0 +1,29 @@
+.danger{
+    background-color: #bb2d3b;
+    color: white;
+}
+
+.primary {
+    background-color: #0b5ed7;
+    color: white;
+}
+
+.success {
+    background-color: #157347;
+    color: white;
+}
+
+.warning {
+    background-color: #ffca2c;
+    color: black;
+}
+
+.info {
+    font-weight: bold;
+    height: 30px;
+    width: fit-content;
+    padding: 7px 10px;
+    margin-right: 16.6px;
+    border-style: none;
+    border-radius: 6px;
+}

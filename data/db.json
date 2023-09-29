@@ -1,0 +1,5292 @@
+{
+  "restaurants": [
+    {
+      "web_site": ["https://facebook.com/NiceCream-65249420597/"],
+      "other_infos": ["Livraisons", "À emporter"],
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/5bd0bb99286869d9a27478d886541cf3.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/e7f85ff3301da54085e2941af8bb3dea.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/dded136e8b632d2da5fe895e1590e1a0.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/4eed2c9bbf8fef3218fbef04cbddc765.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/9ed4d0079064864287b2d06db965d273.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/25794096f2b64e0c76d3249f8bd86319.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c84b75a5201c61c55d3d4c30cd70b6e5.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/d94ceb26dd7d455f83d7c488771801c0.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/751325a765a7febaab30ef1c1abeb284.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/b8206c98b4b19a9afbc969ae6dfc381c.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/7b618044ed3ff10358fa467e90aeeed1.jpeg"
+        }
+      ],
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/"
+        }
+      ],
+      "category": {
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fcafe.png?alt=media&token=dedfd095-6b81-4cb3-a61d-417f9f6f1016",
+        "name": {
+          "en": "Cafés, Fast foods & Pizzas",
+          "fr": "Cafés, Fast foods & Pizzas"
+        },
+        "color_dark": "#853f11",
+        "translation": {
+          "fr": "Cafés, Fast foods & Pizzas"
+        },
+        "tempName": "Cafés, Fast foods & Pizzas",
+        "friendly_url": "cafés,-fast-foods-&-pizzas",
+        "color": "#ff872b",
+        "imageRef": "",
+        "order": 3,
+        "id": "cafes-fast-foods-and-pizzas"
+      },
+      "have_open_days": true,
+      "descriptifs": {
+        "en": [
+          "Pizzeria",
+          "Ice creams",
+          "Desserts",
+          "Juices",
+          "Sandwich",
+          "Pizzas",
+          "Café",
+          "Burgers"
+        ],
+        "fr": [
+          "Pizzeria",
+          "Glaces",
+          "Desserts",
+          "Jus",
+          "Sandwicherie",
+          "Pizzas",
+          "Café",
+          "Burgers"
+        ]
+      },
+      "phone_numbers": ["+221 33 827 96 05"],
+      "order": 297,
+      "tags": [],
+      "days": {
+        "monday": [
+          {
+            "close": "2300",
+            "open": "1100",
+            "isOpen": true,
+            "id": "1"
+          }
+        ],
+        "tuesday": [
+          {
+            "close": "2300",
+            "id": "2",
+            "isOpen": true,
+            "open": "1100"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "1100",
+            "id": "3",
+            "isOpen": true,
+            "close": "2300"
+          }
+        ],
+        "thursday": [
+          {
+            "close": "2300",
+            "id": "4",
+            "open": "1100",
+            "isOpen": true
+          }
+        ],
+        "friday": [
+          {
+            "open": "1100",
+            "close": "2300",
+            "id": "5",
+            "isOpen": true
+          }
+        ],
+        "saturday": [
+          {
+            "open": "1100",
+            "id": "6",
+            "isOpen": true,
+            "close": "2400"
+          }
+        ],
+        "sunday": [
+          {
+            "close": "2230",
+            "isOpen": true,
+            "id": "7",
+            "open": "1100"
+          }
+        ]
+      },
+      "address": {
+        "country": {
+          "id": "5g44jaEZQTShV4xpIGvB",
+          "translation": {
+            "fr": "Sénégal"
+          },
+          "currency": "XOF",
+          "text": "Senegal",
+          "translations": {
+            "hr": "Senegal",
+            "pt": "Senegal",
+            "it": "Senegal",
+            "fr": "Sénégal",
+            "de": "Senegal",
+            "br": "Senegal",
+            "fa": "سنگال",
+            "es": "Senegal",
+            "nl": "Senegal",
+            "ja": "セネガル"
+          },
+          "timeZone": "+1",
+          "timezone": "UTC",
+          "code": "+221",
+          "callingCodes": ["221"],
+          "name": "Senegal"
+        },
+        "town": {
+          "id": "1vwYS2lb7pILWJXnhwjA",
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Sacré-Cœur, undefined Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Sacré-Cœur, Dakar et leurs menu et infos | Kathalog.net"
+          },
+          "name": "Sacré-Cœur",
+          "secondColor": "#da5100",
+          "lastUpdated": 1606726064198,
+          "city": {
+            "imageRef": "/city_images/Dakar.jpg",
+            "translation": {
+              "fr": "Dakar"
+            },
+            "lastUpdated": 1604828999710,
+            "name": "Dakar",
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=a94a8882-f555-49b2-a03f-ba77ee3df29a"
+          },
+          "color": "#864ffe"
+        },
+        "city": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+          "lastUpdated": 1604828999710,
+          "imageRef": "/city_images/Dakar.jpg",
+          "name": "Dakar",
+          "translation": {
+            "fr": "Dakar"
+          },
+          "id": "bJ5a7hBL1KPBU3JF1Hkf",
+          "country": {
+            "currency": "XOF",
+            "text": "Senegal",
+            "timezone": "UTC",
+            "timeZone": "+1",
+            "code": "+221",
+            "translations": {
+              "nl": "Senegal",
+              "es": "Senegal",
+              "fr": "Sénégal",
+              "fa": "سنگال",
+              "pt": "Senegal",
+              "br": "Senegal",
+              "hr": "Senegal",
+              "ja": "セネガル",
+              "de": "Senegal",
+              "it": "Senegal"
+            },
+            "name": "Senegal",
+            "translation": {
+              "fr": "Sénégal"
+            },
+            "callingCodes": ["221"],
+            "id": "5g44jaEZQTShV4xpIGvB"
+          },
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net"
+          }
+        }
+      },
+      "name": "Nice Cream",
+      "descriptifsSet": [
+        {
+          "en": "Ice creams",
+          "fr": "Glaces"
+        },
+        {
+          "en": "Pastries",
+          "fr": "Pâtisseries"
+        },
+        {
+          "en": "Pizzeria",
+          "fr": "Pizzeria"
+        }
+      ],
+      "otherInfos": {
+        "en": [
+          "Home Deliveries",
+          "Secured Parking",
+          "Serve Cocktails",
+          "Family Friendly",
+          "Indoor Seating",
+          "Take away"
+        ],
+        "fr": [
+          "Livraisons",
+          "Parking Sécurisé",
+          "Cocktails",
+          "Convivial",
+          "Sièges intérieurs",
+          "A emporter"
+        ]
+      },
+      "created_at": {
+        "seconds": 1608312685,
+        "nanoseconds": 7000000
+      },
+      "seo": {
+        "en": "undefined,\n        [object Object] [object Object] - Picture, Menu, Infos& Restaurant Contacts | Kathalog.net",
+        "fr": "undefined,\n        [object Object] [object Object] - Photos, Menu, Infos& Contacts Du Restaurant | Kathalog.net"
+      },
+      "coverRef": "",
+      "location": {
+        "name": "Sacré Cœur, Dakar",
+        "lat": 14.716362,
+        "lng": -17.470162
+      },
+      "rate_number": 1,
+      "view_number": 408,
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/61f467da2ff7a073e491720ef2663f81.jpeg"
+      },
+      "email": [],
+      "rate": "4.0",
+      "friendly_url": "nice-cream",
+      "average_price": 2000,
+      "id": "01M0HPfHkueLGNzwmTMG"
+    },
+    {
+      "location": {
+        "lng": 9.423029099999999,
+        "lat": 0.4420155,
+        "name": "Avenue des Bantus, Camp de Gaulle, Libreville"
+      },
+      "created_at": {
+        "seconds": 1608312689,
+        "nanoseconds": 212000000
+      },
+      "phone_numbers": [" +241 62 93 72 92"],
+      "name": "King of Tacos",
+      "tags": [],
+      "category": {
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fcafe.png?alt=media&token=dedfd095-6b81-4cb3-a61d-417f9f6f1016",
+        "imageRef": "",
+        "color_dark": "#853f11",
+        "order": 3,
+        "name": {
+          "en": "Cafés, Fast foods & Pizzas",
+          "fr": "Cafés, Fast foods & Pizzas"
+        },
+        "friendly_url": "cafés,-fast-foods-&-pizzas",
+        "color": "#ff872b",
+        "id": "cafes-fast-foods-and-pizzas",
+        "translation": {
+          "fr": "Cafés, Fast foods & Pizzas"
+        },
+        "tempName": "Cafés, Fast foods & Pizzas"
+      },
+      "descriptifs": {
+        "en": ["Fast-food", "Kebab", "Sandwich", "Salads"],
+        "fr": ["Fast food", "Kebab", "Sandwicherie", "Salades"]
+      },
+      "seo": {
+        "fr": "undefined,\n        [object Object] [object Object] - Photos, Menu, Infos& Contacts Du Restaurant | Kathalog.net",
+        "en": "undefined,\n        [object Object] [object Object] - Picture, Menu, Infos& Restaurant Contacts | Kathalog.net"
+      },
+      "email": [""],
+      "average_price": 3000,
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/744fec5940f11484209dd05da4ee4b55.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/a4b1d713fcf445a7d0ee4d07cee26d51.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/de02a3ba556d6da95fdacf1ae817735d.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/999c0157e179410e5627364c0d3b4b63.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1d79d601eb24fff87941e3eb495cedf7.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/705e9d2b0f36dfc42e49259bc2edd7c9.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1543dc08aafbc703f7cf0ed10cfcbf85.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/aab0c0d1a022c6a32fcdf65ca0e93483.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/48af0a043db6157ce80a3958cf5626f3.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/157c3843ea7b610a274e3119abcde03c.jpeg"
+        }
+      ],
+      "web_site": ["https://facebook.com/kingoftacoslbv"],
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/a2a3440c7a810c505015f7cedd48e3c5.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/18fe4aef4a36965975ac0fb590dd61e4.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6934f7783a3a5ec3be60ba6a5952a6ed.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/a477deeee2ad817fc8e87761bd00db7b.jpeg"
+        }
+      ],
+      "otherInfos": {
+        "fr": [
+          "Buffet",
+          "Cuisine Végétarienne",
+          "Livraisons",
+          "A emporter",
+          "Convivial",
+          "Réservation Recommandée",
+          "Sièges intérieurs",
+          "Cocktails"
+        ],
+        "en": [
+          "Buffet",
+          "Vegetarian Friendly",
+          "Home Deliveries",
+          "Take away",
+          "Family Friendly",
+          "Booking Recommended",
+          "Indoor Seating",
+          "Serve Cocktails"
+        ]
+      },
+      "have_open_days": true,
+      "view_number": 42,
+      "address": {
+        "country": {
+          "callingCodes": ["241"],
+          "translations": {
+            "fa": "گابن",
+            "br": "Gabão",
+            "hr": "Gabon",
+            "pt": "Gabão",
+            "ja": "ガボン",
+            "it": "Gabon",
+            "es": "Gabón",
+            "de": "Gabun",
+            "fr": "Gabon",
+            "nl": "Gabon"
+          },
+          "timezone": "UTC+01:00",
+          "name": "Gabon",
+          "id": "DeUaNOJSeJS397uHVbJY",
+          "text": "Gabon",
+          "currency": "XAF"
+        },
+        "town": {
+          "name": ""
+        },
+        "city": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FLibreville.jpg?alt=media&token=8a243710-63be-4f64-914d-bb2a97ba6cd1",
+          "id": "vNQ5ErVgIEXGeN5neATX",
+          "lastUpdated": 1603650254607,
+          "translation": {
+            "fr": "Libreville"
+          },
+          "name": "Libreville",
+          "imageRef": "/city_images/Libreville.jpg",
+          "country": {
+            "currency": "XAF",
+            "callingCodes": ["241"],
+            "translations": {
+              "fa": "گابن",
+              "ja": "ガボン",
+              "de": "Gabun",
+              "fr": "Gabon",
+              "hr": "Gabon",
+              "pt": "Gabão",
+              "br": "Gabão",
+              "nl": "Gabon",
+              "it": "Gabon",
+              "es": "Gabón"
+            },
+            "text": "Gabon",
+            "name": "Gabon",
+            "id": "DeUaNOJSeJS397uHVbJY",
+            "timezone": "UTC+01:00"
+          }
+        }
+      },
+      "order": 496,
+      "days": {
+        "monday": [
+          {
+            "close": "2230",
+            "open": "1200",
+            "isOpen": true,
+            "id": "1"
+          }
+        ],
+        "tuesday": [
+          {
+            "isOpen": true,
+            "open": "1200",
+            "id": "2",
+            "close": "2230"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "1200",
+            "id": "3",
+            "isOpen": true,
+            "close": "2230"
+          }
+        ],
+        "thursday": [
+          {
+            "id": "4",
+            "isOpen": true,
+            "close": "2230",
+            "open": "1200"
+          }
+        ],
+        "friday": [
+          {
+            "close": "2300",
+            "open": "1200",
+            "isOpen": true,
+            "id": "5"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "1200",
+            "isOpen": true,
+            "id": "6",
+            "close": "2300"
+          }
+        ],
+        "sunday": [
+          {
+            "isOpen": true,
+            "open": "1200",
+            "id": "7",
+            "close": "2300"
+          }
+        ]
+      },
+      "other_infos": ["Livraisons"],
+      "rate": "",
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/bd408274db7616a02998fb25c01d3f02.jpeg"
+      },
+      "friendly_url": "king-of-tacos",
+      "coverRef": "",
+      "id": "04qAyIQS8nJSgwacTbZ9"
+    },
+    {
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/81f4a8b2643ebe5e4a73acff4b8e4ec4.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2433c5355b37861daa50fe3358e67a0b.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1020c35daa8ed27b090f4135c884fdd5.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/852bcb7ee1964412d4ce12979ee01187.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/fec71b54302952327426a39a8eb13d07.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/e2ad4437efa3ddfc5ff59ec65e8b5950.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/e2c99fde7e0602935932231b06c786e8.jpeg"
+        }
+      ],
+      "other_infos": [
+        "Chicha",
+        "Terrasse",
+        "Parking sécurisé",
+        "Livraisons",
+        "Disponible pour évènements"
+      ],
+      "phone_numbers": ["+221 77 442 22 22"],
+      "seo": {
+        "en": "undefined,\n        [object Object] [object Object] - Picture, Menu, Infos& Restaurant Contacts | Kathalog.net",
+        "fr": "undefined,\n        [object Object] [object Object] - Photos, Menu, Infos& Contacts Du Restaurant | Kathalog.net"
+      },
+      "descriptifs": {
+        "fr": [
+          "Pizzeria",
+          "Burgers",
+          "Salades",
+          "Sandwicherie",
+          "Glaces",
+          "Desserts",
+          "Lounge"
+        ],
+        "en": [
+          "Pizzeria",
+          "Burgers",
+          "Salads",
+          "Sandwich",
+          "Ice creams",
+          "Desserts",
+          "Lounge"
+        ]
+      },
+      "web_site": ["https://facebook.com/restaurantswisspalace/"],
+      "average_price": 3000,
+      "otherInfos": {
+        "fr": [
+          "Sièges Extérieurs",
+          "Terrasse",
+          "Sièges intérieurs",
+          "Convivial",
+          "Réservation Recommandée",
+          "Parking Sécurisé",
+          "Chicha"
+        ],
+        "en": [
+          "Outdoor Seating",
+          "Terrace",
+          "Indoor Seating",
+          "Family Friendly",
+          "Booking Recommended",
+          "Secured Parking",
+          "Shisha"
+        ]
+      },
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/0e1b53ad12f62bd64f6de56dd2e70688.jpeg"
+      },
+      "coverRef": "",
+      "have_open_days": true,
+      "view_number": 2817,
+      "days": {
+        "monday": [
+          {
+            "id": "1",
+            "close": "",
+            "open": "0800",
+            "isOpen": true
+          }
+        ],
+        "tuesday": [
+          {
+            "close": "0400",
+            "id": "2",
+            "isOpen": true,
+            "open": "0800"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "0800",
+            "close": "0400",
+            "id": "3",
+            "isOpen": true
+          }
+        ],
+        "thursday": [
+          {
+            "isOpen": true,
+            "close": "0400",
+            "id": "4",
+            "open": "0800"
+          }
+        ],
+        "friday": [
+          {
+            "open": "0900",
+            "id": "5",
+            "close": "0400",
+            "isOpen": true
+          }
+        ],
+        "saturday": [
+          {
+            "open": "0900",
+            "isOpen": true,
+            "close": "0400",
+            "id": "6"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "0900",
+            "isOpen": true,
+            "close": "0400",
+            "id": "7"
+          }
+        ]
+      },
+      "friendly_url": "swiss-palace",
+      "order": 272,
+      "location": {
+        "name": "Avenue Birago Diop, Dakar, Sénégal",
+        "lat": 14.6977015,
+        "lng": -17.4600043
+      },
+      "rate": "4.0",
+      "category": {
+        "tempName": "Afterwork",
+        "translation": {
+          "fr": "Afterwork"
+        },
+        "name": {
+          "en": "Afterwork",
+          "fr": "Afterwork"
+        },
+        "id": "afterwork",
+        "friendly_url": "afterwork",
+        "color_dark": "#72140f",
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fafter.png?alt=media&token=bfba6ef0-236a-4cbf-b90e-3ee48f0bf071",
+        "order": 1,
+        "imageRef": "",
+        "color": "#c93935"
+      },
+      "name": "Swiss Palace",
+      "address": {
+        "country": {
+          "translations": {
+            "de": "Senegal",
+            "es": "Senegal",
+            "hr": "Senegal",
+            "fr": "Sénégal",
+            "br": "Senegal",
+            "it": "Senegal",
+            "pt": "Senegal",
+            "fa": "سنگال",
+            "nl": "Senegal",
+            "ja": "セネガル"
+          },
+          "timezone": "UTC",
+          "translation": {
+            "fr": "Sénégal"
+          },
+          "currency": "XOF",
+          "code": "+221",
+          "id": "5g44jaEZQTShV4xpIGvB",
+          "timeZone": "+1",
+          "text": "Senegal",
+          "name": "Senegal",
+          "callingCodes": ["221"]
+        },
+        "town": {
+          "city": {
+            "lastUpdated": 1604828999710,
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+            "name": "Dakar",
+            "country": {
+              "callingCodes": ["221"],
+              "text": "Senegal",
+              "name": "Senegal",
+              "translation": {
+                "fr": "Sénégal"
+              },
+              "timeZone": "+1",
+              "translations": {
+                "fr": "Sénégal",
+                "es": "Senegal",
+                "de": "Senegal",
+                "ja": "セネガル",
+                "it": "Senegal",
+                "br": "Senegal",
+                "pt": "Senegal",
+                "nl": "Senegal",
+                "hr": "Senegal",
+                "fa": "سنگال"
+              },
+              "currency": "XOF",
+              "timezone": "UTC",
+              "code": "+221",
+              "id": "5g44jaEZQTShV4xpIGvB"
+            },
+            "translation": {
+              "fr": "Dakar"
+            },
+            "seo": {
+              "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net",
+              "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net"
+            },
+            "imageRef": "/city_images/Dakar.jpg"
+          },
+          "color": "#7b2900",
+          "secondColor": "#ff6a00",
+          "id": "X3qUAgMoCKdm7MIKCdkJ",
+          "lastUpdated": 1606767006463,
+          "name": "Point E",
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Point E, undefined Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Point E, Dakar et leurs menu et infos | Kathalog.net"
+          }
+        },
+        "city": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+          "imageRef": "/city_images/Dakar.jpg",
+          "lastUpdated": 1604828999710,
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net"
+          },
+          "country": {
+            "id": "5g44jaEZQTShV4xpIGvB",
+            "currency": "XOF",
+            "code": "+221",
+            "timezone": "UTC",
+            "timeZone": "+1",
+            "translation": {
+              "fr": "Sénégal"
+            },
+            "name": "Senegal",
+            "translations": {
+              "fr": "Sénégal",
+              "it": "Senegal",
+              "es": "Senegal",
+              "ja": "セネガル",
+              "fa": "سنگال",
+              "pt": "Senegal",
+              "nl": "Senegal",
+              "hr": "Senegal",
+              "de": "Senegal",
+              "br": "Senegal"
+            },
+            "text": "Senegal",
+            "callingCodes": ["221"]
+          },
+          "translation": {
+            "fr": "Dakar"
+          },
+          "id": "bJ5a7hBL1KPBU3JF1Hkf",
+          "name": "Dakar"
+        }
+      },
+      "rate_number": 1,
+      "email": [],
+      "tags": [],
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/657c0ed03b79affdc30f7f0dc983c994.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/57b0aba8445b72fbf8fb1a6310df22d3.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/ddc5415c716a66940ba9b4b5d14507b2.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/001c689fe8547d539a060841d34dc6fc.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/b99fdc18ee504f7e80e654d3562a177e.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c439f36fc9354aeb963a27ff194965fa.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/347290f9ac9c372d63518eccf52e8e7d.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/32269768ab0b9d4f2130cfca4552808b.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/7e2654454aa208a50746410ded1d1556.jpeg"
+        }
+      ],
+      "created_at": {
+        "seconds": 1608312806,
+        "nanoseconds": 134000000
+      },
+      "id": "06jtqWIlomKepz19iCMs"
+    },
+    {
+      "created_at": {
+        "seconds": 1608312784,
+        "nanoseconds": 56000000
+      },
+      "coverRef": "",
+      "seo": {
+        "en": "undefined,\n        [object Object] [object Object] - Picture, Menu, Infos& Restaurant Contacts | Kathalog.net",
+        "fr": "undefined,\n        [object Object] [object Object] - Photos, Menu, Infos& Contacts Du Restaurant | Kathalog.net"
+      },
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/13a1f33fafc92d1402441fb5a66f4bae.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/4edb6cef4bbc47202fe7c96179b8bae0.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2f586bc269701dfc4170fb7281554182.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2de786e419f7d74f14f37665e94f8f10.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/52b528aa11ec4fb940b6e8c1adc9aba6.jpeg"
+        }
+      ],
+      "descriptifs": {
+        "fr": [
+          "Continentale",
+          "Européenne",
+          "Française",
+          "Fruit de mer",
+          "Mediterranéenne"
+        ],
+        "en": ["Continental", "European", "French", "Seafood", "Mediterranean"]
+      },
+      "rate": "",
+      "category": {
+        "friendly_url": "foreign-cuisines",
+        "order": 2,
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fforeign.png?alt=media&token=56daead6-bab2-43bc-8fe3-68942c3278fb",
+        "tempName": "Foreign Cuisines",
+        "name": {
+          "en": "Foreign Cuisines",
+          "fr": "Cuisines étrangeres"
+        },
+        "id": "foreign-cuisines",
+        "color": "#3070d7",
+        "color_dark": "#184079",
+        "imageRef": "",
+        "translation": {
+          "fr": "Foreign Cuisines"
+        }
+      },
+      "friendly_url": "le-coste",
+      "have_open_days": true,
+      "phone_numbers": ["+221 33 822 54 55"],
+      "view_number": 456,
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/c4e53122d99285e2ced9f58cec07a381.jpeg"
+      },
+      "order": 290,
+      "other_infos": [""],
+      "location": {
+        "lng": null,
+        "name": "Le Coste, Dakar, Sénégal",
+        "lat": 14.6694977
+      },
+      "otherInfos": {
+        "fr": [
+          "Sièges intérieurs",
+          "Cuisine Végétarienne",
+          "Parking Sécurisé",
+          "Livraisons",
+          "Réservation Recommandée",
+          "Traiteur",
+          "A emporter"
+        ],
+        "en": [
+          "Indoor Seating",
+          "Vegetarian Friendly",
+          "Secured Parking",
+          "Home Deliveries",
+          "Booking Recommended",
+          "Caterer",
+          "Take away"
+        ]
+      },
+      "days": {
+        "monday": [
+          {
+            "isOpen": true,
+            "close": "2300",
+            "open": "1900",
+            "id": "1"
+          }
+        ],
+        "tuesday": [
+          {
+            "id": "2",
+            "isOpen": true,
+            "close": "2300",
+            "open": "1900"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "1900",
+            "close": "2300",
+            "isOpen": true,
+            "id": "3"
+          }
+        ],
+        "thursday": [
+          {
+            "isOpen": true,
+            "open": "1900",
+            "id": "4",
+            "close": "0100"
+          }
+        ],
+        "friday": [
+          {
+            "id": "5",
+            "open": "1900",
+            "isOpen": true,
+            "close": "0100"
+          }
+        ],
+        "saturday": [
+          {
+            "isOpen": true,
+            "open": "1900",
+            "id": "6",
+            "close": "0100"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "",
+            "close": "",
+            "isOpen": false,
+            "id": "7"
+          }
+        ]
+      },
+      "tags": [],
+      "name": "Le Coste",
+      "web_site": ["http://www.lecoste.sn/"],
+      "average_price": 10000,
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/d47284248ef7bee3065a879d0381e32b.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/10ef06ee43028e742b9ca8b557081cd9.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/01c4e855d00d0acc50c2252436677466.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/834c20d922a7ed8d91dd387c142b59b8.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/ff0c548bd9bc7567bf4f43d2f18c3b63.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/d7caf81cba2a8c14d133f105560c6d7a.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/276c3294282838df7ce59697a231fd0c.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2de8ffc22228c1a38a4a1fe18bd06ec0.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2328730a21cc6ec8466d7c7f0dfbc0c5.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1f986d900379531fa355a9836070842b.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/841e4aefc636625e6e412eba8b0181b2.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/121526c8c6ab278178bfcd291bd39488.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2ba7456005ed4104487168e3e3b89186.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/909729fa65300c962d2a183293a008d0.jpeg"
+        }
+      ],
+      "email": [],
+      "address": {
+        "country": {
+          "translation": {
+            "fr": "Sénégal"
+          },
+          "id": "5g44jaEZQTShV4xpIGvB",
+          "currency": "XOF",
+          "timeZone": "+1",
+          "timezone": "UTC",
+          "callingCodes": ["221"],
+          "name": "Senegal",
+          "translations": {
+            "fr": "Sénégal",
+            "ja": "セネガル",
+            "fa": "سنگال",
+            "de": "Senegal",
+            "pt": "Senegal",
+            "it": "Senegal",
+            "hr": "Senegal",
+            "br": "Senegal",
+            "nl": "Senegal",
+            "es": "Senegal"
+          },
+          "text": "Senegal",
+          "code": "+221"
+        },
+        "town": {
+          "secondColor": "#d38301",
+          "name": "Plateau",
+          "id": "OkHaEeJ8niARU4uWT33L",
+          "color": "#ad3e00",
+          "lastUpdated": 1606766857216,
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Plateau, Dakar et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Plateau, undefined Cameroon and their menu and info | Kathalog.net"
+          },
+          "city": {
+            "country": {
+              "callingCodes": ["221"],
+              "translation": {
+                "fr": "Sénégal"
+              },
+              "timeZone": "+1",
+              "text": "Senegal",
+              "code": "+221",
+              "timezone": "UTC",
+              "id": "5g44jaEZQTShV4xpIGvB",
+              "currency": "XOF",
+              "name": "Senegal",
+              "translations": {
+                "es": "Senegal",
+                "fr": "Sénégal",
+                "de": "Senegal",
+                "fa": "سنگال",
+                "it": "Senegal",
+                "hr": "Senegal",
+                "br": "Senegal",
+                "pt": "Senegal",
+                "ja": "セネガル",
+                "nl": "Senegal"
+              }
+            },
+            "translation": {
+              "fr": "Dakar"
+            },
+            "lastUpdated": 1604828999710,
+            "seo": {
+              "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net",
+              "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net"
+            },
+            "name": "Dakar",
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+            "imageRef": "/city_images/Dakar.jpg"
+          }
+        },
+        "city": {
+          "lastUpdated": 1604828999710,
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net"
+          },
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+          "country": {
+            "timezone": "UTC",
+            "translation": {
+              "fr": "Sénégal"
+            },
+            "name": "Senegal",
+            "callingCodes": ["221"],
+            "translations": {
+              "ja": "セネガル",
+              "es": "Senegal",
+              "nl": "Senegal",
+              "it": "Senegal",
+              "pt": "Senegal",
+              "fr": "Sénégal",
+              "fa": "سنگال",
+              "hr": "Senegal",
+              "br": "Senegal",
+              "de": "Senegal"
+            },
+            "timeZone": "+1",
+            "currency": "XOF",
+            "code": "+221",
+            "text": "Senegal",
+            "id": "5g44jaEZQTShV4xpIGvB"
+          },
+          "translation": {
+            "fr": "Dakar"
+          },
+          "name": "Dakar",
+          "imageRef": "/city_images/Dakar.jpg",
+          "id": "bJ5a7hBL1KPBU3JF1Hkf"
+        }
+      },
+      "id": "0BP55SNkEl7MuAhHsdvn"
+    },
+    {
+      "created_at": {
+        "seconds": 1608312759,
+        "nanoseconds": 807000000
+      },
+      "order": 406,
+      "have_open_days": true,
+      "location": {
+        "lng": -3.996239,
+        "lat": 5.3648903,
+        "name": "K32, Carrefour Macaci, II Plateaux"
+      },
+      "friendly_url": "restaurant-le-lof",
+      "other_infos": ["Terrasse", "Livraisons"],
+      "category": {
+        "imageRef": "",
+        "name": {
+          "fr": "Cuisine Locale",
+          "en": "Local Cuisine"
+        },
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Flocal.png?alt=media&token=46bb4be8-b869-4fa8-ac18-b9224e7b5360",
+        "order": 4,
+        "id": "local-cuisines",
+        "color": "#2d6841",
+        "translation": {
+          "fr": ""
+        },
+        "friendly_url": "local-cuisine",
+        "color_dark": "#245435"
+      },
+      "web_site": ["https://facebook.com/RestaurantLof"],
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/398645147d0d097b3bea789ee4a451c0.jpeg"
+      },
+      "average_price": 0,
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/5a295a3239fb90abb4ca838f21a9eef1.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/a32ddc8d3a7433dc4b8031ae1dad0df3.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/24adc9475aad92933db981e378994d41.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/310133712bc86bbf43a00fce8e075950.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2405f11cead405c2066e1b172cd86fe5.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/d8ff1847f6f9c0fefd5a153a6bf02176.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/94481fa1c3c44e7ebeb3b61c6862f374.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2283c172eb3669e45f5895fbb8ea9d68.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/ccb345faa404071b505a37f0d33bbef6.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/9e0281dd4e6b016ad92b1d5d005f57f4.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/0a816b3d520b307bb405d9ac4f5d87c8.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2dbe0637c1911a14ede172540595c460.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/4371dd49c4e0c5d1846d6b23d7979856.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6093ac1b26a604bd634809b53a783907.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/930c5c65b342771bc6691081582f0135.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/e737e4290a95dec63c416920a8633bc0.jpeg"
+        }
+      ],
+      "days": {
+        "monday": [
+          {
+            "close": "2300",
+            "isOpen": true,
+            "id": "1",
+            "open": "1100"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "1100",
+            "isOpen": true,
+            "close": "2300",
+            "id": "2"
+          }
+        ],
+        "wednesday": [
+          {
+            "id": "3",
+            "open": "1100",
+            "close": "2300",
+            "isOpen": true
+          }
+        ],
+        "thursday": [
+          {
+            "id": "4",
+            "open": "1100",
+            "isOpen": true,
+            "close": "2300"
+          }
+        ],
+        "friday": [
+          {
+            "id": "5",
+            "isOpen": true,
+            "open": "1100",
+            "close": "2300"
+          }
+        ],
+        "saturday": [
+          {
+            "id": "6",
+            "open": "1100",
+            "isOpen": true,
+            "close": "2300"
+          }
+        ],
+        "sunday": [
+          {
+            "close": "2300",
+            "isOpen": true,
+            "id": "7",
+            "open": "1100"
+          }
+        ]
+      },
+      "address": {
+        "town": {
+          "secondColor": "#c3d117",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Cocody, Abidjan et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Cocody, undefined Cameroon and their menu and info | Kathalog.net"
+          },
+          "city": {
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FAbidjan.jpg?alt=media&token=0361d12e-4de5-4db3-9f26-d40d1a86c5a6",
+            "country": {
+              "seo": {
+                "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+                "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+              },
+              "currency": "XOF",
+              "callingCodes": ["225"],
+              "name": "Côte d'Ivoire",
+              "id": "j3TVG3VNizkgFQA10BYq",
+              "timezone": "UTC",
+              "translations": {
+                "hr": "Obala Bjelokosti",
+                "fr": "Côte d'Ivoire",
+                "nl": "Ivoorkust",
+                "ja": "コートジボワール",
+                "es": "Costa de Marfil",
+                "br": "Costa do Marfim",
+                "fa": "ساحل عاج",
+                "de": "Elfenbeinküste",
+                "pt": "Costa do Marfim",
+                "it": "Costa D'Avorio"
+              },
+              "text": "Côte d'Ivoire"
+            },
+            "lastUpdated": 1606766510719,
+            "seo": {
+              "en": "The Best Restaurants where to go out and eat in Abidjan, Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+              "fr": "Les Meilleurs Restaurants où sortir et manger à Abidjan, Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+            },
+            "name": "Abidjan",
+            "imageRef": "/city_images/Abidjan.jpg",
+            "translation": {
+              "fr": "Abidjan"
+            }
+          },
+          "name": "Cocody",
+          "id": "0AsecgVXLIF2aqkQiQvP",
+          "lastUpdated": 1606766765856,
+          "color": "#450d59"
+        },
+        "city": {
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Abidjan, Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Abidjan, Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+          },
+          "translation": {
+            "fr": "Abidjan"
+          },
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FAbidjan.jpg?alt=media&token=0361d12e-4de5-4db3-9f26-d40d1a86c5a6",
+          "country": {
+            "id": "j3TVG3VNizkgFQA10BYq",
+            "text": "Côte d'Ivoire",
+            "callingCodes": ["225"],
+            "currency": "XOF",
+            "seo": {
+              "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+              "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+            },
+            "name": "Côte d'Ivoire",
+            "timezone": "UTC",
+            "translations": {
+              "it": "Costa D'Avorio",
+              "es": "Costa de Marfil",
+              "pt": "Costa do Marfim",
+              "br": "Costa do Marfim",
+              "hr": "Obala Bjelokosti",
+              "fa": "ساحل عاج",
+              "de": "Elfenbeinküste",
+              "nl": "Ivoorkust",
+              "fr": "Côte d'Ivoire",
+              "ja": "コートジボワール"
+            }
+          },
+          "id": "uM6dDZt8SfUY1jCk6yRx",
+          "imageRef": "/city_images/Abidjan.jpg",
+          "name": "Abidjan",
+          "lastUpdated": 1606766510719
+        },
+        "country": {
+          "text": "Côte d'Ivoire",
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+          },
+          "translations": {
+            "fr": "Côte d'Ivoire",
+            "de": "Elfenbeinküste",
+            "fa": "ساحل عاج",
+            "br": "Costa do Marfim",
+            "nl": "Ivoorkust",
+            "es": "Costa de Marfil",
+            "it": "Costa D'Avorio",
+            "ja": "コートジボワール",
+            "pt": "Costa do Marfim",
+            "hr": "Obala Bjelokosti"
+          },
+          "callingCodes": ["225"],
+          "currency": "XOF",
+          "name": "Côte d'Ivoire",
+          "id": "j3TVG3VNizkgFQA10BYq",
+          "timezone": "UTC"
+        }
+      },
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/d17e61cd4f8dc226de8a47850d6db593.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/3b758038be72a11e9ab9251da2a3aff5.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/614f24031124a5282797b27995f1f2c2.jpeg"
+        }
+      ],
+      "email": [""],
+      "seo": {
+        "en": "Restaurant Le Lof, Cocody, Abidjan - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net",
+        "fr": "Restaurant Le Lof, Cocody, Abidjan - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net"
+      },
+      "phone_numbers": [" +225 22 54 21 22", " +225 48 75 21 22"],
+      "name": "Restaurant Le Lof",
+      "view_number": 264,
+      "descriptifs": ["Africaine", "Ivoirienne", "Européenne"],
+      "id": "0JX1BXK2L30bcASZKVkk",
+      "tags": []
+    },
+    {
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/829b11f48621cfb2676d72755f793e0e.jpeg"
+      },
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/9aceeece38570f61b4da3534a09b4cfa.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c2b0af1cc92e60999c8427e5efdad835.jpeg"
+        }
+      ],
+      "address": {
+        "city": {
+          "id": "uM6dDZt8SfUY1jCk6yRx",
+          "lastUpdated": 1606766510719,
+          "name": "Abidjan",
+          "country": {
+            "seo": {
+              "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+              "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+            },
+            "currency": "XOF",
+            "translations": {
+              "fr": "Côte d'Ivoire",
+              "pt": "Costa do Marfim",
+              "hr": "Obala Bjelokosti",
+              "de": "Elfenbeinküste",
+              "ja": "コートジボワール",
+              "it": "Costa D'Avorio",
+              "es": "Costa de Marfil",
+              "br": "Costa do Marfim",
+              "nl": "Ivoorkust",
+              "fa": "ساحل عاج"
+            },
+            "callingCodes": ["225"],
+            "timezone": "UTC",
+            "id": "j3TVG3VNizkgFQA10BYq",
+            "name": "Côte d'Ivoire",
+            "text": "Côte d'Ivoire"
+          },
+          "translation": {
+            "fr": "Abidjan"
+          },
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FAbidjan.jpg?alt=media&token=0361d12e-4de5-4db3-9f26-d40d1a86c5a6",
+          "imageRef": "/city_images/Abidjan.jpg",
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Abidjan, Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Abidjan, Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+          }
+        },
+        "town": {
+          "color": "#450d59",
+          "id": "0AsecgVXLIF2aqkQiQvP",
+          "secondColor": "#c3d117",
+          "name": "Cocody",
+          "lastUpdated": 1606766765856,
+          "city": {
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FAbidjan.jpg?alt=media&token=0361d12e-4de5-4db3-9f26-d40d1a86c5a6",
+            "translation": {
+              "fr": "Abidjan"
+            },
+            "country": {
+              "text": "Côte d'Ivoire",
+              "name": "Côte d'Ivoire",
+              "seo": {
+                "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+                "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+              },
+              "currency": "XOF",
+              "translations": {
+                "fa": "ساحل عاج",
+                "es": "Costa de Marfil",
+                "de": "Elfenbeinküste",
+                "hr": "Obala Bjelokosti",
+                "br": "Costa do Marfim",
+                "fr": "Côte d'Ivoire",
+                "ja": "コートジボワール",
+                "pt": "Costa do Marfim",
+                "it": "Costa D'Avorio",
+                "nl": "Ivoorkust"
+              },
+              "id": "j3TVG3VNizkgFQA10BYq",
+              "callingCodes": ["225"],
+              "timezone": "UTC"
+            },
+            "name": "Abidjan",
+            "imageRef": "/city_images/Abidjan.jpg",
+            "seo": {
+              "en": "The Best Restaurants where to go out and eat in Abidjan, Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+              "fr": "Les Meilleurs Restaurants où sortir et manger à Abidjan, Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+            },
+            "lastUpdated": 1606766510719
+          },
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Cocody, undefined Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Cocody, Abidjan et leurs menu et infos | Kathalog.net"
+          }
+        },
+        "country": {
+          "currency": "XOF",
+          "id": "j3TVG3VNizkgFQA10BYq",
+          "timezone": "UTC",
+          "callingCodes": ["225"],
+          "name": "Côte d'Ivoire",
+          "translations": {
+            "pt": "Costa do Marfim",
+            "it": "Costa D'Avorio",
+            "de": "Elfenbeinküste",
+            "fa": "ساحل عاج",
+            "hr": "Obala Bjelokosti",
+            "ja": "コートジボワール",
+            "nl": "Ivoorkust",
+            "br": "Costa do Marfim",
+            "fr": "Côte d'Ivoire",
+            "es": "Costa de Marfil"
+          },
+          "text": "Côte d'Ivoire",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+          }
+        }
+      },
+      "phone_numbers": [" "],
+      "category": {
+        "imageRef": "",
+        "id": "cafes-fast-foods-and-pizzas",
+        "color": "#ff872b",
+        "order": 3,
+        "translation": {
+          "fr": "Cafés, Fast foods & Pizzas"
+        },
+        "color_dark": "#853f11",
+        "friendly_url": "cafés,-fast-foods-&-pizzas",
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fcafe.png?alt=media&token=dedfd095-6b81-4cb3-a61d-417f9f6f1016",
+        "name": {
+          "fr": "Cafés, Fast foods & Pizzas",
+          "en": "Cafés, Fast foods & Pizzas"
+        }
+      },
+      "seo": {
+        "en": "Burger King, Cocody, Abidjan - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net",
+        "fr": "Burger King, Cocody, Abidjan - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net"
+      },
+      "name": "Burger King",
+      "created_at": {
+        "seconds": 1608312689,
+        "nanoseconds": 421000000
+      },
+      "web_site": ["https://facebook.com/Burgerking.CI/"],
+      "view_number": 351,
+      "order": 335,
+      "email": [""],
+      "updated_at": {
+        "seconds": 1608631347,
+        "nanoseconds": 202000000
+      },
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/dd9f58dee35bf1fdc4619d37a8165881.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c5a65e28f6809a71d968944a222aed0f.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/d92aeb88e514b7abcee4aaa2a7f53198.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6c1f768308ac56a9b2a5a7ed26f61ee5.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/53e965e7198ae73bad0b6a6d5e1c1385.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/62632d802cd69fa9ccf5a9167964bca2.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/3c1837dd965a2cf1dd9eb4b5bd2ee4be.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/b0ea6e5c92ba64ba3b5e8e37e5f770d4.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1b70bfbcee70325d622fb77e9f84149d.jpeg"
+        }
+      ],
+      "other_infos": ["Livraisons"],
+      "have_open_days": true,
+      "descriptifs": ["Burger", "Fast food", "Sandwicherie", "Glacier"],
+      "average_price": 5000,
+      "location": {
+        "name": "Rue des Jardins, Cocody, Abidjan, Côte d'Ivoire",
+        "lng": -3.9899351,
+        "lat": 5.3622872
+      },
+      "days": {
+        "monday": [
+          {
+            "open": "1000",
+            "id": "1",
+            "close": "0100",
+            "isOpen": true
+          }
+        ],
+        "tuesday": [
+          {
+            "id": "2",
+            "isOpen": true,
+            "open": "1000",
+            "close": "0100"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "1000",
+            "isOpen": true,
+            "close": "0100",
+            "id": "3"
+          }
+        ],
+        "thursday": [
+          {
+            "id": "4",
+            "isOpen": true,
+            "open": "1000",
+            "close": "0100"
+          }
+        ],
+        "friday": [
+          {
+            "isOpen": true,
+            "open": "1000",
+            "close": "0100",
+            "id": "5"
+          }
+        ],
+        "saturday": [
+          {
+            "isOpen": true,
+            "open": "1000",
+            "close": "0100",
+            "id": "6"
+          }
+        ],
+        "sunday": [
+          {
+            "id": "7",
+            "isOpen": true,
+            "close": "0100",
+            "open": "1000"
+          }
+        ]
+      },
+      "friendly_url": "burger-king",
+      "id": "0KUEnGIwakMr3LboFnqx",
+      "tags": []
+    },
+    {
+      "email": ["info@dream.sn"],
+      "name": "Dream Sports Bar & Lounge",
+      "average_price": 6000,
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/d155de9a9d31a96a6a77657a25172b28.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/845d338453cdea815b1a42cca191324f.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/f9e1fb777f9d049cd8fc2633c7127424.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/200369fe1ece9a8916724cfe0310f1af.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/8b749e67a5f9d6658c0fbe473ebfe023.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/0806cd22a9ffb14020ce195cd7002cae.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/baab9f9196abe0696552ab3a206d2a84.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/90489a30044e4f29f518366d7d6584e6.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6ca0db9311aa763d5a7e33822dbadb56.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/a20d9c082a59adca2681587ef3fc5971.jpeg"
+        }
+      ],
+      "have_open_days": true,
+      "days": {
+        "monday": [
+          {
+            "id": "1",
+            "close": "0200",
+            "isOpen": true,
+            "open": "0900"
+          }
+        ],
+        "tuesday": [
+          {
+            "close": "0200",
+            "isOpen": true,
+            "open": "0900",
+            "id": "2"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "0900",
+            "isOpen": true,
+            "close": "0200",
+            "id": "3"
+          }
+        ],
+        "thursday": [
+          {
+            "isOpen": true,
+            "close": "0200",
+            "id": "4",
+            "open": "0900"
+          }
+        ],
+        "friday": [
+          {
+            "open": "0900",
+            "id": "5",
+            "close": "0600",
+            "isOpen": true
+          }
+        ],
+        "saturday": [
+          {
+            "open": "0900",
+            "isOpen": true,
+            "close": "0600",
+            "id": "6"
+          }
+        ],
+        "sunday": [
+          {
+            "close": "0600",
+            "open": "0900",
+            "isOpen": true,
+            "id": "7"
+          }
+        ]
+      },
+      "address": {
+        "town": {
+          "secondColor": "#00a1d8",
+          "color": "#4d22b2",
+          "id": "VImEg4FshIYXfcvk5XR6",
+          "lastUpdated": 1606766981430,
+          "name": "Ngor",
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Ngor, undefined Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Ngor, Dakar et leurs menu et infos | Kathalog.net"
+          },
+          "city": {
+            "name": "Dakar",
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+            "seo": {
+              "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net",
+              "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net"
+            },
+            "lastUpdated": 1604828999710,
+            "imageRef": "/city_images/Dakar.jpg",
+            "country": {
+              "translations": {
+                "hr": "Senegal",
+                "fr": "Sénégal",
+                "fa": "سنگال",
+                "de": "Senegal",
+                "br": "Senegal",
+                "es": "Senegal",
+                "pt": "Senegal",
+                "it": "Senegal",
+                "ja": "セネガル",
+                "nl": "Senegal"
+              },
+              "text": "Senegal",
+              "callingCodes": ["221"],
+              "name": "Senegal",
+              "code": "+221",
+              "translation": {
+                "fr": "Sénégal"
+              },
+              "timezone": "UTC",
+              "id": "5g44jaEZQTShV4xpIGvB",
+              "timeZone": "+1",
+              "currency": "XOF"
+            },
+            "translation": {
+              "fr": "Dakar"
+            }
+          }
+        },
+        "country": {
+          "text": "Senegal",
+          "currency": "XOF",
+          "code": "+221",
+          "name": "Senegal",
+          "callingCodes": ["221"],
+          "timeZone": "+1",
+          "translations": {
+            "nl": "Senegal",
+            "it": "Senegal",
+            "fa": "سنگال",
+            "fr": "Sénégal",
+            "br": "Senegal",
+            "de": "Senegal",
+            "hr": "Senegal",
+            "pt": "Senegal",
+            "ja": "セネガル",
+            "es": "Senegal"
+          },
+          "translation": {
+            "fr": "Sénégal"
+          },
+          "id": "5g44jaEZQTShV4xpIGvB",
+          "timezone": "UTC"
+        },
+        "city": {
+          "imageRef": "/city_images/Dakar.jpg",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net"
+          },
+          "country": {
+            "currency": "XOF",
+            "timezone": "UTC",
+            "callingCodes": ["221"],
+            "id": "5g44jaEZQTShV4xpIGvB",
+            "code": "+221",
+            "translations": {
+              "es": "Senegal",
+              "br": "Senegal",
+              "fr": "Sénégal",
+              "ja": "セネガル",
+              "de": "Senegal",
+              "nl": "Senegal",
+              "hr": "Senegal",
+              "pt": "Senegal",
+              "fa": "سنگال",
+              "it": "Senegal"
+            },
+            "name": "Senegal",
+            "text": "Senegal",
+            "translation": {
+              "fr": "Sénégal"
+            },
+            "timeZone": "+1"
+          },
+          "id": "bJ5a7hBL1KPBU3JF1Hkf",
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+          "translation": {
+            "fr": "Dakar"
+          },
+          "name": "Dakar",
+          "lastUpdated": 1604828999710
+        }
+      },
+      "other_infos": ["Terrasse", "Chicha", "Wifi"],
+      "view_number": 1298,
+      "created_at": {
+        "seconds": 1608312808,
+        "nanoseconds": 39000000
+      },
+      "location": {
+        "lat": 14.7433838,
+        "name": "Quartier Virage, Lot N43 Rond Point, Ngor, Dakar",
+        "lng": -17.5119433
+      },
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/ff1436f53694d491f3bf55c0872d6678.jpeg"
+      },
+      "friendly_url": "dream-sports-bar-&-lounge",
+      "order": 308,
+      "phone_numbers": ["+221 +221 77 181 25 55"],
+      "descriptifs": ["Lounge", "Bar", "Pizzas", "Burger", "Américaine"],
+      "category": {
+        "order": 1,
+        "imageRef": "",
+        "friendly_url": "afterwork",
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fafter.png?alt=media&token=bfba6ef0-236a-4cbf-b90e-3ee48f0bf071",
+        "id": "afterwork",
+        "translation": {
+          "fr": "Afterwork"
+        },
+        "color_dark": "#72140f",
+        "name": {
+          "en": "Afterwork",
+          "fr": "Afterwork"
+        },
+        "color": "#c93935"
+      },
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/8d55365f3c2efee763b91725dec0309f.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/e97b64d799818816ed1389696fe0ac56.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6d0a458f33c7d32d56ecdbbf29047f29.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/95723cc14ba0b8be3ee0d7a4ae1c3adb.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/959812cfc013ce4fd8997eecc3b3902a.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/475f54569064b2dd19480c246eb423d3.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/ee833154ed6d41f0692b7f7504a36fb4.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/adbc2e71acb27e23aa9b380e89b8f532.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2df4afdd617f000f16b1c80973df37f9.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/aab197aaff92a66183fa72faec6689b9.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1206bcaca48e643c6d429fb625f22274.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/49857fb7560b5c549b7efe01da5c814e.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2c3d85bd7cc26f406812992e0f615f7f.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/ca6e243db3e90fb22e3ac775c130df1c.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/8c1bfc7fd4826f341508146928cd5096.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/f4b3386427a018c46013c009ac7f87b8.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/e2d15c71402ef8540745a9049f0f7ae3.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/7662d381aba33dd7d19536efa6939472.jpeg"
+        }
+      ],
+      "web_site": ["http://www.dream.sn/"],
+      "seo": {
+        "en": "Dream Sports Bar & Lounge, Ngor, Dakar - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net",
+        "fr": "Dream Sports Bar & Lounge, Ngor, Dakar - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net"
+      },
+      "id": "0PYRLxGGniPvGruwRpzW",
+      "tags": []
+    },
+    {
+      "have_open_days": true,
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/bba9d60524b446cd24d6145d0f242cb3.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6e5b2c1141b204b6bea3239b5982c3df.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/96f71d64ed19cc0ac6636c5812552f57.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/3f2e881cd21103a70b555412eed16acf.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/a69f66ee6805b13a34bdbbf0aeabf4d5.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/d5f40da73cb47f14452ef1a3394a6846.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6a5305e7e14bd07f891aa120029eeb16.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c9c7353c0d1baaab1e7b5e1bcb39fdc3.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/82e8acee81c06940547f5ff5cafe8f2f.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/e63cb44057cd0cbdaf870b3cbf1f8726.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/313d785683bf67a1fd792a8c082ec387.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6edc997557686a2023300eff2b599c04.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/8d5e60586e29ab423a55211b891f2f35.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/f5fc6cdf536a4597e95a605807298ab1.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/0ba08b50eabab6eb464849d180c593fb.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/d86770a873b5e25f61cd19db26664a79.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/ff5cdef2c2ed27770535c43f9abb89a3.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/f0e936703f08536128ff44f4f9a13ae8.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/cd24524beadbf93165779274bb8472fb.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/35354e4813a2ac32cd19cd278642af24.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/09ffed046f98e409c314fe30242c9104.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/5cea775138b09f7f3e5ba4fda284dea5.jpeg"
+        }
+      ],
+      "other_infos": [
+        "Parking securisé ",
+        "Wifi gratuit",
+        "Assurance pour client en cas d'incident",
+        "Disponible pour location",
+        "Service traiteur",
+        "Livraison (Akwa, Bali, Bonanjo et Bonapriso",
+        "Service de qualité "
+      ],
+      "updated_at": {
+        "seconds": 1608580330,
+        "nanoseconds": 835000000
+      },
+      "descriptifs": ["Indienne", "Asiatique"],
+      "seo": {
+        "fr": "Bombay Masala, Bonapriso, Douala - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net",
+        "en": "Bombay Masala, Bonapriso, Douala - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net"
+      },
+      "phone_numbers": ["+237 6 75 29 88 15"],
+      "address": {
+        "town": {
+          "cityName": "Douala",
+          "translation": {
+            "fr": "Bonapriso"
+          },
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Bonapriso, Douala et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Bonapriso, undefined Cameroon and their menu and info | Kathalog.net"
+          },
+          "secondColor": "#9e3dff",
+          "name": "Bonapriso",
+          "color": "#1aff29",
+          "lastUpdated": 1603650746191,
+          "city": {
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDouala.jpg?alt=media&token=3df28882-0326-4c59-8063-a5d7fb8c2b06",
+            "imageRef": "/city_images/Douala.jpg",
+            "translation": {
+              "fr": "Douala"
+            },
+            "lastUpdated": 1604228365841,
+            "name": "Douala"
+          },
+          "id": "5D0mbyPpQqxqPiokQmp0"
+        },
+        "city": {
+          "translation": {
+            "fr": "Douala"
+          },
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDouala.jpg?alt=media&token=3df28882-0326-4c59-8063-a5d7fb8c2b06",
+          "name": "Douala",
+          "imageRef": "/city_images/Douala.jpg",
+          "country": {
+            "currency": "XAF",
+            "timeZone": "Etc/GMT+1",
+            "callingCodes": ["237"],
+            "translation": {
+              "fr": "Cameroun"
+            },
+            "timezone": "UTC+01:00",
+            "text": "Cameroon",
+            "translations": {
+              "de": "Kamerun",
+              "ja": "カメルーン",
+              "pt": "Camarões",
+              "it": "Camerun",
+              "fa": "کامرون",
+              "hr": "Kamerun",
+              "nl": "Kameroen",
+              "br": "Camarões",
+              "es": "Camerún",
+              "fr": "Cameroun"
+            },
+            "name": "Cameroon",
+            "id": "7SuyvOpqIOM5f3Ep3ImK",
+            "code": "+237"
+          },
+          "lastUpdated": 1604228365841,
+          "id": "Zik5EyDvLkwpvCmfUxYy"
+        },
+        "country": {
+          "name": "Cameroon",
+          "timezone": "UTC+01:00",
+          "callingCodes": ["237"],
+          "text": "Cameroon",
+          "id": "7SuyvOpqIOM5f3Ep3ImK",
+          "code": "+237",
+          "timeZone": "Etc/GMT+1",
+          "translation": {
+            "fr": "Cameroun"
+          },
+          "translations": {
+            "es": "Camerún",
+            "nl": "Kameroen",
+            "fa": "کامرون",
+            "pt": "Camarões",
+            "ja": "カメルーン",
+            "hr": "Kamerun",
+            "br": "Camarões",
+            "de": "Kamerun",
+            "fr": "Cameroun",
+            "it": "Camerun"
+          },
+          "currency": "XAF"
+        }
+      },
+      "name": "Bombay Masala",
+      "web_site": ["https://www.facebook.com/bombay.masala.9"],
+      "friendly_url": "bombay-masala",
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/1294031981IMG_5830.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1217515749IMG_5831.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/831918481IMG_5832.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/759124653IMG_5834.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1195288452IMG_5836.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/573853291IMG_5837.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/768830304IMG_5838.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/779366644IMG_5840.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/727568139IMG_5844.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/219670463IMG_5846.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1824860048IMG_5848.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1087208552IMG_5849.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1638818086IMG_5850.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/68366961IMG_5851.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/751252623IMG_5852.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1262350956IMG_5859.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/610197175IMG_5860.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1673701717IMG_5861.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2fafa4858b3b66bd6474806303d0ad6b.jpg"
+        }
+      ],
+      "order": 33,
+      "days": {
+        "monday": [
+          {
+            "open": "1830",
+            "id": "1",
+            "close": "2300",
+            "isOpen": true
+          }
+        ],
+        "tuesday": [
+          {
+            "id": "2",
+            "open": "1830",
+            "isOpen": true,
+            "close": "2300"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "1830",
+            "isOpen": true,
+            "close": "2300",
+            "id": "3"
+          }
+        ],
+        "thursday": [
+          {
+            "isOpen": true,
+            "id": "4",
+            "open": "1830",
+            "close": "2300"
+          }
+        ],
+        "friday": [
+          {
+            "isOpen": true,
+            "id": "5",
+            "open": "1830",
+            "close": "2300"
+          }
+        ],
+        "saturday": [
+          {
+            "isOpen": true,
+            "id": "6",
+            "open": "1830",
+            "close": "2300"
+          }
+        ],
+        "sunday": [
+          {
+            "close": "2300",
+            "isOpen": true,
+            "id": "7",
+            "open": "1830"
+          }
+        ]
+      },
+      "created_at": {
+        "seconds": 1608312783,
+        "nanoseconds": 932000000
+      },
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/847157883IMG_5828.JPG"
+      },
+      "category": {
+        "id": "foreign-cuisines",
+        "color": "#3070d7",
+        "translation": {
+          "fr": "Foreign Cuisines"
+        },
+        "friendly_url": "foreign-cuisines",
+        "imageRef": "",
+        "name": {
+          "fr": "Cuisines étrangeres",
+          "en": "Foreign Cuisines"
+        },
+        "order": 2,
+        "color_dark": "#184079",
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fforeign.png?alt=media&token=56daead6-bab2-43bc-8fe3-68942c3278fb"
+      },
+      "view_number": 3311,
+      "location": {
+        "lng": 9.69911956350711,
+        "name": "1163 Rue Njo-Njo Bonapriso",
+        "lat": 4.027749466960753
+      },
+      "email": ["bombay_masala@hotmail.com"],
+      "average_price": 15000,
+      "id": "0QBg617oeqbffeLeWI6T",
+      "tags": []
+    },
+    {
+      "location": {
+        "name": "21 Rue Huart, Dakar, Sénégal",
+        "lat": 14.6710614,
+        "lng": -17.4300114
+      },
+      "friendly_url": "ciao-italia",
+      "created_at": {
+        "seconds": 1608312784,
+        "nanoseconds": 735000000
+      },
+      "seo": {
+        "en": "Ciao Italia, Plateau, Dakar - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net",
+        "fr": "Ciao Italia, Plateau, Dakar - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net"
+      },
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/"
+        }
+      ],
+      "other_infos": ["Livraisons", "Wifi", "Paiement par carte"],
+      "descriptifs": ["Italienne", "Pizzeria"],
+      "phone_numbers": ["+221 +221 33 842 32 22"],
+      "view_number": 273,
+      "address": {
+        "country": {
+          "text": "Senegal",
+          "currency": "XOF",
+          "callingCodes": ["221"],
+          "name": "Senegal",
+          "timeZone": "+1",
+          "translations": {
+            "it": "Senegal",
+            "de": "Senegal",
+            "fa": "سنگال",
+            "fr": "Sénégal",
+            "pt": "Senegal",
+            "es": "Senegal",
+            "nl": "Senegal",
+            "br": "Senegal",
+            "ja": "セネガル",
+            "hr": "Senegal"
+          },
+          "id": "5g44jaEZQTShV4xpIGvB",
+          "translation": {
+            "fr": "Sénégal"
+          },
+          "code": "+221",
+          "timezone": "UTC"
+        },
+        "town": {
+          "lastUpdated": 1606766857216,
+          "id": "OkHaEeJ8niARU4uWT33L",
+          "secondColor": "#d38301",
+          "city": {
+            "seo": {
+              "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net",
+              "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net"
+            },
+            "country": {
+              "code": "+221",
+              "text": "Senegal",
+              "timeZone": "+1",
+              "currency": "XOF",
+              "translation": {
+                "fr": "Sénégal"
+              },
+              "callingCodes": ["221"],
+              "name": "Senegal",
+              "id": "5g44jaEZQTShV4xpIGvB",
+              "timezone": "UTC",
+              "translations": {
+                "ja": "セネガル",
+                "pt": "Senegal",
+                "es": "Senegal",
+                "it": "Senegal",
+                "nl": "Senegal",
+                "fr": "Sénégal",
+                "de": "Senegal",
+                "br": "Senegal",
+                "hr": "Senegal",
+                "fa": "سنگال"
+              }
+            },
+            "name": "Dakar",
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+            "imageRef": "/city_images/Dakar.jpg",
+            "translation": {
+              "fr": "Dakar"
+            },
+            "lastUpdated": 1604828999710
+          },
+          "color": "#ad3e00",
+          "name": "Plateau",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Plateau, Dakar et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Plateau, undefined Cameroon and their menu and info | Kathalog.net"
+          }
+        },
+        "city": {
+          "name": "Dakar",
+          "country": {
+            "translation": {
+              "fr": "Sénégal"
+            },
+            "timeZone": "+1",
+            "name": "Senegal",
+            "timezone": "UTC",
+            "text": "Senegal",
+            "currency": "XOF",
+            "id": "5g44jaEZQTShV4xpIGvB",
+            "callingCodes": ["221"],
+            "translations": {
+              "hr": "Senegal",
+              "pt": "Senegal",
+              "es": "Senegal",
+              "de": "Senegal",
+              "nl": "Senegal",
+              "br": "Senegal",
+              "fr": "Sénégal",
+              "fa": "سنگال",
+              "ja": "セネガル",
+              "it": "Senegal"
+            },
+            "code": "+221"
+          },
+          "id": "bJ5a7hBL1KPBU3JF1Hkf",
+          "imageRef": "/city_images/Dakar.jpg",
+          "lastUpdated": 1604828999710,
+          "translation": {
+            "fr": "Dakar"
+          },
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net"
+          },
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4"
+        }
+      },
+      "email": [""],
+      "order": 317,
+      "web_site": [""],
+      "average_price": 0,
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/9bf8b54d538f14fada66b32c6b409d21.jpeg"
+      },
+      "have_open_days": true,
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/ef67f4443b6d05cc8b5532f5221df2a2.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/76aa2a175c90f0f4b3c468c673ccb441.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/4b7520db2d7f43a5fd805fcadad882e6.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c70d7ade4985179d81f7ecfe1c6df644.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/b8f36ecfeba6932754de7cba62ee7dab.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/b38c8cef33f8cd737aa40ebf2047e964.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1a38aa4415f27d97664ed0293ad83a60.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/4882dbeb8b9650fac85b0a353c861924.jpeg"
+        }
+      ],
+      "name": "Ciao Italia",
+      "days": {
+        "monday": [
+          {
+            "close": "2300",
+            "id": "1",
+            "open": "1200",
+            "isOpen": true
+          }
+        ],
+        "tuesday": [
+          {
+            "id": "2",
+            "isOpen": true,
+            "open": "1200",
+            "close": "2300"
+          }
+        ],
+        "wednesday": [
+          {
+            "id": "3",
+            "open": "1200",
+            "isOpen": true,
+            "close": "2300"
+          }
+        ],
+        "thursday": [
+          {
+            "isOpen": true,
+            "id": "4",
+            "open": "1200",
+            "close": "2300"
+          }
+        ],
+        "friday": [
+          {
+            "close": "2300",
+            "id": "5",
+            "isOpen": true,
+            "open": "1200"
+          }
+        ],
+        "saturday": [
+          {
+            "id": "6",
+            "open": "1900",
+            "isOpen": true,
+            "close": "0000"
+          }
+        ],
+        "sunday": [
+          {
+            "close": "0000",
+            "open": "1900",
+            "isOpen": true,
+            "id": "7"
+          }
+        ]
+      },
+      "category": {
+        "translation": {
+          "fr": "Foreign Cuisines"
+        },
+        "id": "foreign-cuisines",
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fforeign.png?alt=media&token=56daead6-bab2-43bc-8fe3-68942c3278fb",
+        "order": 2,
+        "imageRef": "",
+        "color": "#3070d7",
+        "color_dark": "#184079",
+        "name": {
+          "fr": "Cuisines étrangeres",
+          "en": "Foreign Cuisines"
+        },
+        "friendly_url": "foreign-cuisines"
+      },
+      "id": "0SuOG2rudJ9LTR1Wt3Lj",
+      "tags": []
+    },
+    {
+      "web_site": ["https://facebook.com/restaurant.lOalabouche"],
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/f003845775b9e8f4a31e3d26f37e149e.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/457ac9adf4fb7775f5539abdd5387648.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1c2b7fcf2feb730e8bbd8855da39e8c5.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/49f50d7a49646324e6d17209bb2e3f00.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1bed27bc1804152129ce9eae342a8162.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/22c68f3de62237ca26c85316d0e89b6f.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/4e48079912529bbf8d18ed850b24f9ce.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6d4aa2d86d02618ca6dace2ed26d6692.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/06322367c6f4c729c4f8cfe4dd4b0993.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6b236e6564f054263f966aee72f76057.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/275847dce3f010f46ed48529bfb9f1bb.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/f9c3347b80f4187317485769de970c9c.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c18784e7f401bc3ede32b7389baa9d34.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/bbe2fa4e1490316e9019fd8ba85dddd1.jpeg"
+        }
+      ],
+      "order": 368,
+      "name": "Restaurant L’O à la Bouche",
+      "address": {
+        "town": {
+          "city": {
+            "seo": {
+              "en": "The Best Restaurants where to go out and eat in Abidjan, Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+              "fr": "Les Meilleurs Restaurants où sortir et manger à Abidjan, Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+            },
+            "name": "Abidjan",
+            "translation": {
+              "fr": "Abidjan"
+            },
+            "country": {
+              "name": "Côte d'Ivoire",
+              "text": "Côte d'Ivoire",
+              "callingCodes": ["225"],
+              "translations": {
+                "hr": "Obala Bjelokosti",
+                "fa": "ساحل عاج",
+                "ja": "コートジボワール",
+                "de": "Elfenbeinküste",
+                "pt": "Costa do Marfim",
+                "es": "Costa de Marfil",
+                "br": "Costa do Marfim",
+                "fr": "Côte d'Ivoire",
+                "it": "Costa D'Avorio",
+                "nl": "Ivoorkust"
+              },
+              "id": "j3TVG3VNizkgFQA10BYq",
+              "timezone": "UTC",
+              "currency": "XOF",
+              "seo": {
+                "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+                "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+              }
+            },
+            "imageRef": "/city_images/Abidjan.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FAbidjan.jpg?alt=media&token=0361d12e-4de5-4db3-9f26-d40d1a86c5a6",
+            "lastUpdated": 1606766510719
+          },
+          "id": "b1citIN3XunPoZvSFq3E",
+          "secondColor": "#99244f",
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Treichville, undefined Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Treichville, Abidjan et leurs menu et infos | Kathalog.net"
+          },
+          "lastUpdated": 1606767433852,
+          "color": "#3c071b",
+          "name": "Treichville"
+        },
+        "country": {
+          "currency": "XOF",
+          "text": "Côte d'Ivoire",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+          },
+          "name": "Côte d'Ivoire",
+          "translations": {
+            "ja": "コートジボワール",
+            "es": "Costa de Marfil",
+            "fr": "Côte d'Ivoire",
+            "pt": "Costa do Marfim",
+            "nl": "Ivoorkust",
+            "fa": "ساحل عاج",
+            "de": "Elfenbeinküste",
+            "it": "Costa D'Avorio",
+            "br": "Costa do Marfim",
+            "hr": "Obala Bjelokosti"
+          },
+          "callingCodes": ["225"],
+          "id": "j3TVG3VNizkgFQA10BYq",
+          "timezone": "UTC"
+        },
+        "city": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FAbidjan.jpg?alt=media&token=0361d12e-4de5-4db3-9f26-d40d1a86c5a6",
+          "imageRef": "/city_images/Abidjan.jpg",
+          "name": "Abidjan",
+          "country": {
+            "timezone": "UTC",
+            "translations": {
+              "br": "Costa do Marfim",
+              "it": "Costa D'Avorio",
+              "nl": "Ivoorkust",
+              "pt": "Costa do Marfim",
+              "ja": "コートジボワール",
+              "fa": "ساحل عاج",
+              "de": "Elfenbeinküste",
+              "fr": "Côte d'Ivoire",
+              "es": "Costa de Marfil",
+              "hr": "Obala Bjelokosti"
+            },
+            "name": "Côte d'Ivoire",
+            "text": "Côte d'Ivoire",
+            "callingCodes": ["225"],
+            "seo": {
+              "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+              "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+            },
+            "id": "j3TVG3VNizkgFQA10BYq",
+            "currency": "XOF"
+          },
+          "lastUpdated": 1606766510719,
+          "id": "uM6dDZt8SfUY1jCk6yRx",
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Abidjan, Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Abidjan, Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+          },
+          "translation": {
+            "fr": "Abidjan"
+          }
+        }
+      },
+      "seo": {
+        "en": "Restaurant L’O à la Bouche, Treichville, Abidjan - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net",
+        "fr": "Restaurant L’O à la Bouche, Treichville, Abidjan - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net"
+      },
+      "friendly_url": "restaurant-l’o-à-la-bouche",
+      "category": {
+        "color": "#3070d7",
+        "imageRef": "",
+        "name": {
+          "en": "Foreign Cuisines",
+          "fr": "Cuisines étrangeres"
+        },
+        "friendly_url": "foreign-cuisines",
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fforeign.png?alt=media&token=56daead6-bab2-43bc-8fe3-68942c3278fb",
+        "color_dark": "#184079",
+        "order": 2,
+        "id": "foreign-cuisines",
+        "translation": {
+          "fr": "Foreign Cuisines"
+        }
+      },
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/16b1c386fea468e18f99d7024a0c9d01.jpeg"
+        }
+      ],
+      "view_number": 360,
+      "other_infos": [
+        "Billiard",
+        "Terrasse",
+        "Service traiteur",
+        "Disponible pour évènements"
+      ],
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/7d39daa34f8d5aa1649cfce17b471d83.jpeg"
+      },
+      "average_price": 8000,
+      "descriptifs": ["Européenne", "Grillades"],
+      "created_at": {
+        "seconds": 1608312785,
+        "nanoseconds": 343000000
+      },
+      "days": {
+        "monday": [
+          {
+            "open": "0800",
+            "id": "1",
+            "close": "2230",
+            "isOpen": true
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "0800",
+            "isOpen": true,
+            "id": "2",
+            "close": "2230"
+          }
+        ],
+        "wednesday": [
+          {
+            "id": "3",
+            "open": "0800",
+            "close": "2230",
+            "isOpen": true
+          }
+        ],
+        "thursday": [
+          {
+            "id": "4",
+            "open": "0800",
+            "close": "2230",
+            "isOpen": true
+          }
+        ],
+        "friday": [
+          {
+            "id": "5",
+            "open": "0800",
+            "isOpen": true,
+            "close": "2230"
+          }
+        ],
+        "saturday": [
+          {
+            "isOpen": true,
+            "open": "0800",
+            "id": "6",
+            "close": "2230"
+          }
+        ],
+        "sunday": [
+          {
+            "isOpen": true,
+            "id": "7",
+            "close": "2230",
+            "open": "0800"
+          }
+        ]
+      },
+      "phone_numbers": [" +225 21 24 74 20"],
+      "have_open_days": true,
+      "email": ["loalabouche.ci@gmail.com"],
+      "location": {
+        "lng": -3.9957639,
+        "name": "Zone 3, Boulevard de Marseille - Asna club house, Abidjan",
+        "lat": 5.289264199999999
+      },
+      "id": "0wFZZ8gbT7jCHRxZ14PY",
+      "tags": []
+    },
+    {
+      "web_site": [
+        "https://m.facebook.com/Le-Quatro-restaurant-269420393715409/"
+      ],
+      "other_infos": ["Service traiteur", "Disponible pour occasions diverses"],
+      "created_at": {
+        "seconds": 1608312759,
+        "nanoseconds": 961000000
+      },
+      "address": {
+        "city": {
+          "id": "Zik5EyDvLkwpvCmfUxYy",
+          "translation": {
+            "fr": "Douala"
+          },
+          "name": "Douala",
+          "country": {
+            "callingCodes": ["237"],
+            "text": "Cameroon",
+            "translations": {
+              "ja": "カメルーン",
+              "pt": "Camarões",
+              "br": "Camarões",
+              "fr": "Cameroun",
+              "it": "Camerun",
+              "nl": "Kameroen",
+              "es": "Camerún",
+              "hr": "Kamerun",
+              "fa": "کامرون",
+              "de": "Kamerun"
+            },
+            "currency": "XAF",
+            "code": "+237",
+            "translation": {
+              "fr": "Cameroun"
+            },
+            "name": "Cameroon",
+            "timeZone": "Etc/GMT+1",
+            "id": "7SuyvOpqIOM5f3Ep3ImK",
+            "timezone": "UTC+01:00"
+          },
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDouala.jpg?alt=media&token=3df28882-0326-4c59-8063-a5d7fb8c2b06",
+          "imageRef": "/city_images/Douala.jpg",
+          "lastUpdated": 1604228365841
+        },
+        "town": {
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Bonamoussadi, undefined Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Bonamoussadi, Douala et leurs menu et infos | Kathalog.net"
+          },
+          "color": "#53cafd",
+          "city": {
+            "name": "Douala",
+            "translation": {
+              "fr": "Douala"
+            },
+            "imageRef": "/city_images/Douala.jpg",
+            "lastUpdated": 1604228365841,
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDouala.jpg?alt=media&token=3df28882-0326-4c59-8063-a5d7fb8c2b06"
+          },
+          "translation": {
+            "fr": "Bonamoussadi"
+          },
+          "lastUpdated": 1604827932703,
+          "cityName": "Douala",
+          "secondColor": "#324567",
+          "name": "Bonamoussadi",
+          "id": "Q2Nf8XcwxykXJdkotPos"
+        },
+        "country": {
+          "code": "+237",
+          "text": "Cameroon",
+          "currency": "XAF",
+          "name": "Cameroon",
+          "translation": {
+            "fr": "Cameroun"
+          },
+          "translations": {
+            "de": "Kamerun",
+            "hr": "Kamerun",
+            "ja": "カメルーン",
+            "es": "Camerún",
+            "fa": "کامرون",
+            "fr": "Cameroun",
+            "nl": "Kameroen",
+            "br": "Camarões",
+            "it": "Camerun",
+            "pt": "Camarões"
+          },
+          "id": "7SuyvOpqIOM5f3Ep3ImK",
+          "callingCodes": ["237"],
+          "timezone": "UTC+01:00",
+          "timeZone": "Etc/GMT+1"
+        }
+      },
+      "view_number": 1413,
+      "descriptifs": ["Camerounaise", "Africaine", "Européenne", "Pizzeria"],
+      "category": {
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Flocal.png?alt=media&token=46bb4be8-b869-4fa8-ac18-b9224e7b5360",
+        "color": "#2d6841",
+        "imageRef": "",
+        "friendly_url": "local-cuisine",
+        "name": {
+          "en": "Local Cuisine",
+          "fr": "Cuisine Locale"
+        },
+        "order": 4,
+        "color_dark": "#245435",
+        "translation": {
+          "fr": ""
+        },
+        "id": "local-cuisines"
+      },
+      "order": 27,
+      "seo": {
+        "fr": "Le Quatro, Bonamoussadi, Douala - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net",
+        "en": "Le Quatro, Bonamoussadi, Douala - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net"
+      },
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/6168cb56aefecaebd92cdad7b6d48933.jpeg"
+      },
+      "friendly_url": "le-quatro",
+      "name": "Le Quatro",
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/b9129d2a4d7ec4b95acc5fe56ed886dc.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/53a67fa71dab9c830fb2a6ecc152d883.jpeg"
+        }
+      ],
+      "email": [""],
+      "have_open_days": true,
+      "location": {
+        "name": "Rond Point Maetur, derrière Oil Libya, Bonamoussadi ",
+        "lng": 9.733385099999964,
+        "lat": 4.0859205
+      },
+      "days": {
+        "monday": [
+          {
+            "close": "",
+            "isOpen": false,
+            "id": "1",
+            "open": ""
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "",
+            "close": "",
+            "id": "2",
+            "isOpen": false
+          }
+        ],
+        "wednesday": [
+          {
+            "isOpen": false,
+            "id": "3",
+            "open": "",
+            "close": ""
+          }
+        ],
+        "thursday": [
+          {
+            "open": "",
+            "close": "",
+            "id": "4",
+            "isOpen": false
+          }
+        ],
+        "friday": [
+          {
+            "isOpen": false,
+            "id": "5",
+            "open": "",
+            "close": ""
+          }
+        ],
+        "saturday": [
+          {
+            "open": "",
+            "isOpen": false,
+            "id": "6",
+            "close": ""
+          }
+        ],
+        "sunday": [
+          {
+            "id": "7",
+            "isOpen": false,
+            "close": "",
+            "open": ""
+          }
+        ]
+      },
+      "average_price": 2000,
+      "phone_numbers": ["+237 696 300 778"],
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/3c0223f00bb9a4779859b033b43f0923.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/be5a69b5db78feb446fded3a7a61c922.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/637f0adec4d0e0cae1ef1bbc1813723b.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/0d9ac7e9a9bc4d8bfd31704cd42c2c89.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/3b7a979ec4546b291f3f16017fd25909.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/4c75dc62ca0d0a37c1a516126f0f35ca.jpeg"
+        }
+      ],
+      "id": "1H2WSGwgLODnLOGCID4f",
+      "tags": []
+    },
+    {
+      "friendly_url": "black&white-light",
+      "days": {
+        "monday": [
+          {
+            "id": "1",
+            "isOpen": false,
+            "open": "",
+            "close": ""
+          }
+        ],
+        "tuesday": [
+          {
+            "isOpen": false,
+            "close": "",
+            "id": "2",
+            "open": ""
+          }
+        ],
+        "wednesday": [
+          {
+            "id": "3",
+            "close": "",
+            "isOpen": false,
+            "open": ""
+          }
+        ],
+        "thursday": [
+          {
+            "isOpen": false,
+            "open": "",
+            "id": "4",
+            "close": ""
+          }
+        ],
+        "friday": [
+          {
+            "isOpen": false,
+            "open": "",
+            "close": "",
+            "id": "5"
+          }
+        ],
+        "saturday": [
+          {
+            "id": "6",
+            "close": "",
+            "isOpen": false,
+            "open": ""
+          }
+        ],
+        "sunday": [
+          {
+            "id": "7",
+            "close": "",
+            "open": "",
+            "isOpen": false
+          }
+        ]
+      },
+      "address": {
+        "country": {
+          "timezone": "UTC+01:00",
+          "currency": "XAF",
+          "translation": {
+            "fr": "Cameroun"
+          },
+          "id": "7SuyvOpqIOM5f3Ep3ImK",
+          "translations": {
+            "es": "Camerún",
+            "fr": "Cameroun",
+            "hr": "Kamerun",
+            "ja": "カメルーン",
+            "fa": "کامرون",
+            "nl": "Kameroen",
+            "it": "Camerun",
+            "br": "Camarões",
+            "de": "Kamerun",
+            "pt": "Camarões"
+          },
+          "code": "+237",
+          "timeZone": "Etc/GMT+1",
+          "name": "Cameroon",
+          "callingCodes": ["237"],
+          "text": "Cameroon"
+        },
+        "town": {
+          "city": {
+            "translation": {
+              "fr": "Yaounde"
+            },
+            "country": {
+              "translations": {
+                "it": "Camerun",
+                "pt": "Camarões",
+                "nl": "Kameroen",
+                "br": "Camarões",
+                "ja": "カメルーン",
+                "hr": "Kamerun",
+                "fa": "کامرون",
+                "es": "Camerún",
+                "fr": "Cameroun",
+                "de": "Kamerun"
+              },
+              "name": "Cameroon",
+              "callingCodes": ["237"],
+              "translation": {
+                "fr": "Cameroun"
+              },
+              "timeZone": "Etc/GMT+1",
+              "code": "+237",
+              "id": "7SuyvOpqIOM5f3Ep3ImK",
+              "timezone": "UTC+01:00",
+              "currency": "XAF",
+              "text": "Cameroon"
+            },
+            "imageRef": "/city_images/Yaounde.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FYaounde.jpg?alt=media&token=99d7dc95-867d-40e2-8f92-e20372f859fe",
+            "lastUpdated": 1603649793097,
+            "name": "Yaounde"
+          },
+          "name": "Obili",
+          "lastUpdated": 1606768918983,
+          "id": "3a2CiuXYPp10gsq7mSMq",
+          "color": "#666100",
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Obili, undefined Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Obili, Yaounde et leurs menu et infos | Kathalog.net"
+          },
+          "secondColor": "#669d34"
+        },
+        "city": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FYaounde.jpg?alt=media&token=99d7dc95-867d-40e2-8f92-e20372f859fe",
+          "id": "oqaXYwwBP1f6o0q6yTHw",
+          "country": {
+            "text": "Cameroon",
+            "name": "Cameroon",
+            "currency": "XAF",
+            "id": "7SuyvOpqIOM5f3Ep3ImK",
+            "code": "+237",
+            "timeZone": "Etc/GMT+1",
+            "translation": {
+              "fr": "Cameroun"
+            },
+            "callingCodes": ["237"],
+            "timezone": "UTC+01:00",
+            "translations": {
+              "fr": "Cameroun",
+              "hr": "Kamerun",
+              "it": "Camerun",
+              "nl": "Kameroen",
+              "pt": "Camarões",
+              "es": "Camerún",
+              "de": "Kamerun",
+              "fa": "کامرون",
+              "br": "Camarões",
+              "ja": "カメルーン"
+            }
+          },
+          "lastUpdated": 1603649793097,
+          "translation": {
+            "fr": "Yaounde"
+          },
+          "imageRef": "/city_images/Yaounde.jpg",
+          "name": "Yaounde"
+        }
+      },
+      "category": {
+        "id": "afterwork",
+        "color_dark": "#72140f",
+        "friendly_url": "afterwork",
+        "color": "#c93935",
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fafter.png?alt=media&token=bfba6ef0-236a-4cbf-b90e-3ee48f0bf071",
+        "order": 1,
+        "translation": {
+          "fr": "Afterwork"
+        },
+        "name": {
+          "fr": "Afterwork",
+          "en": "Afterwork"
+        },
+        "imageRef": ""
+      },
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/2e186d27cc15e655d0704123dd1519a8.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/16fb4239d71d160ee1f1042c7f03c5ce.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/45e161f8df7cb9586231b313786c6e67.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/7ea46a43baaea629215f076f90dbe227.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/fa6d7e50888d9d1cc995892b5048b489.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/55caaf88e9fec0cd22229206175ca7cf.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/0f0c081ebc4e9d6f897b8d6fb9607e61.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/fb6f4be32ed0b5305f592186efbb93e1.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/91eea7f07a6670d86d68765d3e682953.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/0faffe249fcd56d14840e2c5d788d979.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/17fa8c890488fd1e7251410fd88f71e0.jpeg"
+        }
+      ],
+      "view_number": 540,
+      "created_at": {
+        "seconds": 1608312805,
+        "nanoseconds": 248000000
+      },
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/221e6a9abb810e1d752fc50bda71ed61.jpeg"
+      },
+      "phone_numbers": ["+237 6 95 95 36 66"],
+      "descriptifs": ["Lounge", "Bar"],
+      "average_price": 0,
+      "web_site": ["https://blackandwhite.cm"],
+      "have_open_days": true,
+      "name": "Black&White Light",
+      "email": [""],
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/"
+        }
+      ],
+      "order": 32,
+      "other_infos": ["Parking sécurisé", "Chicha"],
+      "seo": {
+        "fr": "Black&White Light, Obili, Yaoundé - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net",
+        "en": "Black&White Light, Obili, Yaoundé - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net"
+      },
+      "location": {
+        "name": "Carrefour Obili, Yaoundé",
+        "lng": 11.49276580555727,
+        "lat": 3.8572740181301017
+      },
+      "id": "1OAtHt6IogetHq3DY7gD",
+      "tags": []
+    },
+    {
+      "name": "Classic Burger",
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/90f89a5650685a0e98c835ce073b8a6a.jpeg"
+      },
+      "address": {
+        "town": {
+          "lastUpdated": 1606766857216,
+          "color": "#ad3e00",
+          "id": "OkHaEeJ8niARU4uWT33L",
+          "secondColor": "#d38301",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Plateau, Dakar et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Plateau, undefined Cameroon and their menu and info | Kathalog.net"
+          },
+          "name": "Plateau",
+          "city": {
+            "translation": {
+              "fr": "Dakar"
+            },
+            "name": "Dakar",
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+            "country": {
+              "callingCodes": ["221"],
+              "translation": {
+                "fr": "Sénégal"
+              },
+              "text": "Senegal",
+              "code": "+221",
+              "translations": {
+                "de": "Senegal",
+                "es": "Senegal",
+                "fa": "سنگال",
+                "fr": "Sénégal",
+                "br": "Senegal",
+                "ja": "セネガル",
+                "hr": "Senegal",
+                "it": "Senegal",
+                "nl": "Senegal",
+                "pt": "Senegal"
+              },
+              "timeZone": "+1",
+              "id": "5g44jaEZQTShV4xpIGvB",
+              "timezone": "UTC",
+              "name": "Senegal",
+              "currency": "XOF"
+            },
+            "seo": {
+              "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net",
+              "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net"
+            },
+            "imageRef": "/city_images/Dakar.jpg",
+            "lastUpdated": 1604828999710
+          }
+        },
+        "city": {
+          "country": {
+            "timezone": "UTC",
+            "name": "Senegal",
+            "text": "Senegal",
+            "callingCodes": ["221"],
+            "currency": "XOF",
+            "id": "5g44jaEZQTShV4xpIGvB",
+            "translation": {
+              "fr": "Sénégal"
+            },
+            "translations": {
+              "br": "Senegal",
+              "fa": "سنگال",
+              "nl": "Senegal",
+              "pt": "Senegal",
+              "ja": "セネガル",
+              "hr": "Senegal",
+              "de": "Senegal",
+              "es": "Senegal",
+              "fr": "Sénégal",
+              "it": "Senegal"
+            },
+            "timeZone": "+1",
+            "code": "+221"
+          },
+          "translation": {
+            "fr": "Dakar"
+          },
+          "lastUpdated": 1604828999710,
+          "imageRef": "/city_images/Dakar.jpg",
+          "id": "bJ5a7hBL1KPBU3JF1Hkf",
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+          "name": "Dakar",
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net"
+          }
+        },
+        "country": {
+          "callingCodes": ["221"],
+          "text": "Senegal",
+          "code": "+221",
+          "translation": {
+            "fr": "Sénégal"
+          },
+          "currency": "XOF",
+          "timeZone": "+1",
+          "name": "Senegal",
+          "id": "5g44jaEZQTShV4xpIGvB",
+          "translations": {
+            "pt": "Senegal",
+            "ja": "セネガル",
+            "br": "Senegal",
+            "fr": "Sénégal",
+            "fa": "سنگال",
+            "hr": "Senegal",
+            "nl": "Senegal",
+            "de": "Senegal",
+            "it": "Senegal",
+            "es": "Senegal"
+          },
+          "timezone": "UTC"
+        }
+      },
+      "location": {
+        "lat": 14.6709275,
+        "name": "10 Rue Ramez Bourgi, Dakar",
+        "lng": -17.4297418
+      },
+      "order": 237,
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/2be80b40fcee9f0c58dae573421db95f.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/714600336df8510e4607c3271d6d4c51.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/467b830f2c702cd5eb00498878145a77.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/ab360434ff1e3895f15e9f77f29ef7ff.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/44d32263459b4c0b9e262c3c8aa045e9.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/25a2c18942d39d90e1b2272e803b60d8.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/f2df8edd2d9e9a5e26983744aad7692a.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/e6c926005a853b2d034f1b330b8fbfcd.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/9c12d9806b89ed15a56503b65ada99fe.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c6ad42dede51573400f7c96892757fd9.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/dffab513453a7690c75d8d6ce015d868.jpeg"
+        }
+      ],
+      "web_site": ["https://www.classicburger.sn/"],
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/3acfb52284ce118d4c13afb1f2a6b575.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/0f8c6d1e8f0393da8cbf48b99b3d5815.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c7cad71cf3103a27bcde48b45e9cb06a.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/bc98ff016bb0323459d8292bfb4c1553.jpeg"
+        }
+      ],
+      "have_open_days": true,
+      "average_price": 5000,
+      "email": ["classicburger@orange.sn"],
+      "seo": {
+        "en": "Classic Burger, Plateau, Dakar - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net",
+        "fr": "Classic Burger, Plateau, Dakar - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net"
+      },
+      "created_at": {
+        "seconds": 1608312690,
+        "nanoseconds": 405000000
+      },
+      "days": {
+        "monday": [
+          {
+            "close": "",
+            "open": "",
+            "isOpen": false,
+            "id": "1"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "1800",
+            "close": "2300",
+            "isOpen": true,
+            "id": "2"
+          }
+        ],
+        "wednesday": [
+          {
+            "isOpen": true,
+            "open": "1800",
+            "close": "2300",
+            "id": "3"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "1800",
+            "close": "2300",
+            "id": "4",
+            "isOpen": true
+          }
+        ],
+        "friday": [
+          {
+            "isOpen": true,
+            "close": "2300",
+            "id": "5",
+            "open": "1800"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "1800",
+            "close": "0000",
+            "id": "6",
+            "isOpen": true
+          }
+        ],
+        "sunday": [
+          {
+            "open": "1800",
+            "close": "2300",
+            "id": "7",
+            "isOpen": true
+          }
+        ]
+      },
+      "friendly_url": "classic-burger",
+      "category": {
+        "friendly_url": "cafés,-fast-foods-&-pizzas",
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fcafe.png?alt=media&token=dedfd095-6b81-4cb3-a61d-417f9f6f1016",
+        "imageRef": "",
+        "name": {
+          "fr": "Cafés, Fast foods & Pizzas",
+          "en": "Cafés, Fast foods & Pizzas"
+        },
+        "order": 3,
+        "translation": {
+          "fr": "Cafés, Fast foods & Pizzas"
+        },
+        "color_dark": "#853f11",
+        "color": "#ff872b",
+        "id": "cafes-fast-foods-and-pizzas"
+      },
+      "phone_numbers": ["+221 +221 33 822 00 10", "+221 +221 33 822 00 20"],
+      "view_number": 355,
+      "other_infos": ["Livraisons"],
+      "descriptifs": ["Burger", "Sandwicherie", "Grillades"],
+      "id": "1UIEzohYG3IXuYWJ6dmM",
+      "tags": []
+    },
+    {
+      "friendly_url": "pizza-hut",
+      "updated_at": {
+        "seconds": 1611099062,
+        "nanoseconds": 687000000
+      },
+      "order": 67,
+      "web_site": ["https://facebook.com/pizzahutcmr"],
+      "descriptifs": ["Pizzeria ", "Pizzeria"],
+      "address": {
+        "country": {
+          "translations": {
+            "br": "Camarões",
+            "ja": "カメルーン",
+            "es": "Camerún",
+            "hr": "Kamerun",
+            "nl": "Kameroen",
+            "fa": "کامرون",
+            "de": "Kamerun",
+            "it": "Camerun",
+            "fr": "Cameroun",
+            "pt": "Camarões"
+          },
+          "code": "+237",
+          "translation": {
+            "fr": "Cameroun"
+          },
+          "text": "Cameroon",
+          "name": "Cameroon",
+          "id": "7SuyvOpqIOM5f3Ep3ImK",
+          "currency": "XAF",
+          "callingCodes": ["237"],
+          "timeZone": "Etc/GMT+1",
+          "timezone": "UTC+01:00"
+        },
+        "city": {
+          "id": "Zik5EyDvLkwpvCmfUxYy",
+          "lastUpdated": 1604228365841,
+          "name": "Douala",
+          "imageRef": "/city_images/Douala.jpg",
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDouala.jpg?alt=media&token=3df28882-0326-4c59-8063-a5d7fb8c2b06",
+          "translation": {
+            "fr": "Douala"
+          },
+          "country": {
+            "name": "Cameroon",
+            "timezone": "UTC+01:00",
+            "timeZone": "Etc/GMT+1",
+            "text": "Cameroon",
+            "currency": "XAF",
+            "code": "+237",
+            "id": "7SuyvOpqIOM5f3Ep3ImK",
+            "translation": {
+              "fr": "Cameroun"
+            },
+            "translations": {
+              "it": "Camerun",
+              "pt": "Camarões",
+              "br": "Camarões",
+              "fa": "کامرون",
+              "hr": "Kamerun",
+              "de": "Kamerun",
+              "fr": "Cameroun",
+              "nl": "Kameroen",
+              "es": "Camerún",
+              "ja": "カメルーン"
+            },
+            "callingCodes": ["237"]
+          }
+        },
+        "town": {
+          "secondColor": "#324567",
+          "cityName": "Douala",
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Bonamoussadi, undefined Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Bonamoussadi, Douala et leurs menu et infos | Kathalog.net"
+          },
+          "translation": {
+            "fr": "Bonamoussadi"
+          },
+          "city": {
+            "translation": {
+              "fr": "Douala"
+            },
+            "name": "Douala",
+            "imageRef": "/city_images/Douala.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDouala.jpg?alt=media&token=3df28882-0326-4c59-8063-a5d7fb8c2b06",
+            "lastUpdated": 1604228365841
+          },
+          "lastUpdated": 1604827932703,
+          "color": "#53cafd",
+          "id": "Q2Nf8XcwxykXJdkotPos",
+          "name": "Bonamoussadi"
+        }
+      },
+      "name": "Pizza Hut",
+      "average_price": 5000,
+      "category": {
+        "imageRef": "",
+        "color": "#ff872b",
+        "translation": {
+          "fr": "Cafés, Fast foods & Pizzas"
+        },
+        "friendly_url": "cafés,-fast-foods-&-pizzas",
+        "name": {
+          "fr": "Cafés, Fast foods & Pizzas",
+          "en": "Cafés, Fast foods & Pizzas"
+        },
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fcafe.png?alt=media&token=dedfd095-6b81-4cb3-a61d-417f9f6f1016",
+        "color_dark": "#853f11",
+        "id": "cafes-fast-foods-and-pizzas",
+        "order": 3
+      },
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/08591cd2126c480c30a8e8ebe1f0fca1.jpeg"
+      },
+      "view_number": 4480,
+      "location": {
+        "lat": 4.095676916924489,
+        "lng": 9.736637685319462,
+        "name": "À l’encein de Carrefour Market Bonamoussadi"
+      },
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/197112a10f26959683bd0e3ab88cc604.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c67aeccf31aee1a7b4b7f003f6d222b0.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/74e97d6371e9805c92f535b21ba189c3.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/4cb6b569f65d8e383a4def9877f94e3f.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/89bc06071b548fa491fa57b34339fa9c.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/75b33672a9d264107fd04974c0f04e6c.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/71dc6242c5458f0ec83448378f77b4c0.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/a767830b038971b4b12853c15e1a31fd.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/caac93560ac8d429afc58eb0fbeb7964.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/a9ab96f1ffc7814b2d23e637384ac60c.jpeg"
+        }
+      ],
+      "seo": {
+        "fr": "Pizza Hut, Bonamoussadi, Douala - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net",
+        "en": "Pizza Hut, Bonamoussadi, Douala - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net"
+      },
+      "phone_numbers": ["+237 "],
+      "have_open_days": true,
+      "email": [""],
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/e1ae173d9adebd715d45a674233948ba.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/827048eff6c477abead0c1fecb6ed7ce.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/b31f3339265b7f59eeb4b18b724a4cbb.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6f7e2574a90999617c883af9c4d4908e.jpeg"
+        }
+      ],
+      "days": {
+        "monday": [
+          {
+            "isOpen": true,
+            "id": "1",
+            "open": "1000",
+            "close": "2200"
+          }
+        ],
+        "tuesday": [
+          {
+            "close": "2200",
+            "id": "2",
+            "open": "1000",
+            "isOpen": true
+          }
+        ],
+        "wednesday": [
+          {
+            "isOpen": true,
+            "close": "2200",
+            "id": "3",
+            "open": "1000"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "1000",
+            "close": "2200",
+            "id": "4",
+            "isOpen": true
+          }
+        ],
+        "friday": [
+          {
+            "open": "1000",
+            "id": "5",
+            "isOpen": true,
+            "close": "2200"
+          }
+        ],
+        "saturday": [
+          {
+            "isOpen": true,
+            "close": "2200",
+            "id": "6",
+            "open": "1000"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "1000",
+            "close": "2200",
+            "isOpen": true,
+            "id": "7"
+          }
+        ]
+      },
+      "created_at": {
+        "seconds": 1608312691,
+        "nanoseconds": 117000000
+      },
+      "other_infos": [
+        "Parking sécurisé",
+        "Plat à emporter ",
+        "Livraison à domicile"
+      ],
+      "id": "1WkeT83BfmECcPedqcdU",
+      "tags": []
+    },
+    {
+      "have_open_days": true,
+      "address": {
+        "country": {
+          "translations": {
+            "ja": "カメルーン",
+            "fr": "Cameroun",
+            "de": "Kamerun",
+            "es": "Camerún",
+            "hr": "Kamerun",
+            "br": "Camarões",
+            "pt": "Camarões",
+            "it": "Camerun",
+            "fa": "کامرون",
+            "nl": "Kameroen"
+          },
+          "text": "Cameroon",
+          "timeZone": "Etc/GMT+1",
+          "code": "+237",
+          "timezone": "UTC+01:00",
+          "translation": {
+            "fr": "Cameroun"
+          },
+          "currency": "XAF",
+          "id": "7SuyvOpqIOM5f3Ep3ImK",
+          "callingCodes": ["237"],
+          "name": "Cameroon"
+        },
+        "town": {
+          "color": "#012f7b",
+          "name": "Bonanjo",
+          "city": {
+            "imageRef": "/city_images/Douala.jpg",
+            "lastUpdated": 1604228365841,
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDouala.jpg?alt=media&token=3df28882-0326-4c59-8063-a5d7fb8c2b06",
+            "translation": {
+              "fr": "Douala"
+            },
+            "name": "Douala"
+          },
+          "lastUpdated": 1606760727125,
+          "secondColor": "#a96800",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Bonanjo, Douala et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Bonanjo, undefined Cameroon and their menu and info | Kathalog.net"
+          },
+          "id": "qO6ZAvSG2PL7gioRAvvs"
+        },
+        "city": {
+          "imageRef": "/city_images/Douala.jpg",
+          "name": "Douala",
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDouala.jpg?alt=media&token=3df28882-0326-4c59-8063-a5d7fb8c2b06",
+          "id": "Zik5EyDvLkwpvCmfUxYy",
+          "country": {
+            "timeZone": "Etc/GMT+1",
+            "timezone": "UTC+01:00",
+            "id": "7SuyvOpqIOM5f3Ep3ImK",
+            "callingCodes": ["237"],
+            "name": "Cameroon",
+            "translations": {
+              "es": "Camerún",
+              "hr": "Kamerun",
+              "fa": "کامرون",
+              "fr": "Cameroun",
+              "br": "Camarões",
+              "it": "Camerun",
+              "nl": "Kameroen",
+              "ja": "カメルーン",
+              "de": "Kamerun",
+              "pt": "Camarões"
+            },
+            "translation": {
+              "fr": "Cameroun"
+            },
+            "code": "+237",
+            "currency": "XAF",
+            "text": "Cameroon"
+          },
+          "translation": {
+            "fr": "Douala"
+          },
+          "lastUpdated": 1604228365841
+        }
+      },
+      "average_price": 7000,
+      "days": {
+        "monday": [
+          {
+            "isOpen": true,
+            "id": "1",
+            "close": "0000",
+            "open": "1000"
+          }
+        ],
+        "tuesday": [
+          {
+            "isOpen": true,
+            "id": "2",
+            "open": "1000",
+            "close": "0000"
+          }
+        ],
+        "wednesday": [
+          {
+            "isOpen": true,
+            "id": "3",
+            "open": "1000",
+            "close": "0000"
+          }
+        ],
+        "thursday": [
+          {
+            "id": "4",
+            "close": "0000",
+            "isOpen": true,
+            "open": "1000"
+          }
+        ],
+        "friday": [
+          {
+            "open": "1000",
+            "isOpen": true,
+            "close": "0000",
+            "id": "5"
+          }
+        ],
+        "saturday": [
+          {
+            "close": "0000",
+            "isOpen": true,
+            "id": "6",
+            "open": "1000"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "1000",
+            "isOpen": true,
+            "close": "0000",
+            "id": "7"
+          }
+        ]
+      },
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/1266105654IMG_6519.PNG"
+        }
+      ],
+      "email": ["lesmangroves@yahoo.fr"],
+      "seo": {
+        "fr": "Les Mangroves, Bonanjo, Douala - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net",
+        "en": "Les Mangroves, Bonanjo, Douala - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net"
+      },
+      "descriptifs": ["Grillade", "Camerounaise", "Française"],
+      "order": 15,
+      "category": {
+        "name": {
+          "fr": "Cuisine Locale",
+          "en": "Local Cuisine"
+        },
+        "imageRef": "",
+        "order": 4,
+        "id": "local-cuisines",
+        "color": "#2d6841",
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Flocal.png?alt=media&token=46bb4be8-b869-4fa8-ac18-b9224e7b5360",
+        "friendly_url": "local-cuisine",
+        "color_dark": "#245435",
+        "translation": {
+          "fr": ""
+        }
+      },
+      "view_number": 3805,
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/1759702632IMG_6191.JPG"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/193ac3ecc397643ca91911e8d0a121c3.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/ad9a9c3d8c9c8110f4377cb779814568.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/013db937824f2bf02e7b58e1fb993adf.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/56de2fa405c5ae2c536ec531fcbe80fd.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/7ae17728bc149afa8ec271a16e8a3815.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/b5a12ea3ba56b477f27c2e0140163f55.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/b7a32cec0eb912a386ff13717aa4d085.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/aed51a19143768548a82d2b5e9d6f3e6.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/cc24ced2f66c990b4206d2be9790d257.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c7a003aaf1afb63058f1a05e5f5e11b5.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c690273b78ac6464e01c45ad4235e03d.jpeg"
+        }
+      ],
+      "phone_numbers": ["+237 6 99 84 56 57", "+237 6 99 81 77 17"],
+      "name": "Les Mangroves",
+      "web_site": [""],
+      "created_at": {
+        "seconds": 1608312760,
+        "nanoseconds": 127000000
+      },
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/1b3f77a8079f66c080391dace5dc4dac.jpeg"
+      },
+      "friendly_url": "les-mangroves",
+      "other_infos": [
+        "Parking securisé (150 places)",
+        "Service traiteur",
+        "Repas de groupe",
+        "Salle climatisée pour reunion, seminaire",
+        "Buffet sur commande tous les jours",
+        "Buffet tous les Dimanches"
+      ],
+      "location": {
+        "lng": 9.669380916088812,
+        "name": "Base Navale de Douala",
+        "lat": 4.022349207083592
+      },
+      "id": "1YYZwAOGD0dwk6M1Fq7R",
+      "tags": []
+    },
+    {
+      "descriptifs": ["Café", "Glacier", "Pâtisserie"],
+      "order": 501,
+      "seo": {
+        "en": "Le Snack Bessieux, , Libreville - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net",
+        "fr": "Le Snack Bessieux, , Libreville - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net"
+      },
+      "category": {
+        "order": 3,
+        "translation": {
+          "fr": "Cafés, Fast foods & Pizzas"
+        },
+        "id": "cafes-fast-foods-and-pizzas",
+        "imageRef": "",
+        "name": {
+          "fr": "Cafés, Fast foods & Pizzas",
+          "en": "Cafés, Fast foods & Pizzas"
+        },
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fcafe.png?alt=media&token=dedfd095-6b81-4cb3-a61d-417f9f6f1016",
+        "color": "#ff872b",
+        "friendly_url": "cafés,-fast-foods-&-pizzas",
+        "color_dark": "#853f11"
+      },
+      "friendly_url": "le-snack-bessieux",
+      "address": {
+        "city": {
+          "lastUpdated": 1603650254607,
+          "name": "Libreville",
+          "country": {
+            "timezone": "UTC+01:00",
+            "id": "DeUaNOJSeJS397uHVbJY",
+            "name": "Gabon",
+            "text": "Gabon",
+            "callingCodes": ["241"],
+            "currency": "XAF",
+            "translations": {
+              "it": "Gabon",
+              "fa": "گابن",
+              "br": "Gabão",
+              "es": "Gabón",
+              "fr": "Gabon",
+              "de": "Gabun",
+              "hr": "Gabon",
+              "ja": "ガボン",
+              "pt": "Gabão",
+              "nl": "Gabon"
+            }
+          },
+          "id": "vNQ5ErVgIEXGeN5neATX",
+          "imageRef": "/city_images/Libreville.jpg",
+          "translation": {
+            "fr": "Libreville"
+          },
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FLibreville.jpg?alt=media&token=8a243710-63be-4f64-914d-bb2a97ba6cd1"
+        },
+        "town": {
+          "name": ""
+        },
+        "country": {
+          "currency": "XAF",
+          "timezone": "UTC+01:00",
+          "text": "Gabon",
+          "translations": {
+            "pt": "Gabão",
+            "nl": "Gabon",
+            "fa": "گابن",
+            "fr": "Gabon",
+            "br": "Gabão",
+            "de": "Gabun",
+            "ja": "ガボン",
+            "hr": "Gabon",
+            "es": "Gabón",
+            "it": "Gabon"
+          },
+          "name": "Gabon",
+          "id": "DeUaNOJSeJS397uHVbJY",
+          "callingCodes": ["241"]
+        }
+      },
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/9efab1e073cdc6436d13f12948e7c18f.jpeg"
+      },
+      "average_price": 3000,
+      "location": {
+        "lat": 0.4030925,
+        "name": "Boulevard Bessieux, Libreville, Gabon",
+        "lng": 9.4421824
+      },
+      "web_site": ["https://facebook.com/lesnackbessieux"],
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/bb4e29c040a747e64c15ff06f8b78cba.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2c2414e8cf828bc503d4ad4b420b476b.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/f248ca045b3d086bf781b22c144a91a2.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/45178422b352081c8cfd4c0b235872d4.jpeg"
+        }
+      ],
+      "created_at": {
+        "seconds": 1608312689,
+        "nanoseconds": 4000000
+      },
+      "name": "Le Snack Bessieux",
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/9c1b155e00a39882537e11a4ebb524d2.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1b2a8de0a1a9c336d3f463ce73f90856.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c5e387e727287aaa4c761240be1de74a.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/5b50e365b3a7bb97b8d845288eb10f4e.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/b6f384e2633ed366ec92d3a3efd7a872.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/5d5aecf4fb3637d1947c54de8ccc9be2.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/f958d0d936c56bd588ee040ece319664.jpeg"
+        }
+      ],
+      "view_number": 49,
+      "other_infos": ["Terrasse"],
+      "phone_numbers": [" +241 65 95 86 08"],
+      "email": [""],
+      "have_open_days": true,
+      "days": {
+        "monday": [
+          {
+            "isOpen": true,
+            "close": "1800",
+            "open": "0800",
+            "id": "1"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "0800",
+            "close": "1800",
+            "id": "2",
+            "isOpen": true
+          }
+        ],
+        "wednesday": [
+          {
+            "close": "1800",
+            "isOpen": true,
+            "open": "0800",
+            "id": "3"
+          }
+        ],
+        "thursday": [
+          {
+            "close": "1800",
+            "open": "0800",
+            "isOpen": true,
+            "id": "4"
+          }
+        ],
+        "friday": [
+          {
+            "close": "1800",
+            "isOpen": true,
+            "open": "0800",
+            "id": "5"
+          }
+        ],
+        "saturday": [
+          {
+            "isOpen": true,
+            "open": "0800",
+            "close": "1800",
+            "id": "6"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "0800",
+            "isOpen": true,
+            "close": "1300",
+            "id": "7"
+          }
+        ]
+      },
+      "id": "1bsg256ydwDnBCiXYYhk",
+      "tags": []
+    },
+    {
+      "other_infos": [""],
+      "friendly_url": "le-sorento",
+      "seo": {
+        "en": "Le Sorento, Bonapriso, Douala - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net",
+        "fr": "Le Sorento, Bonapriso, Douala - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net"
+      },
+      "name": "Le Sorento",
+      "order": 56,
+      "view_number": 903,
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/75937e95d506862b78af945cd9debc2f.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/975e5b248293cfb29d5209907982b0e2.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/4b1a311849adeefab17f9485d218c2bc.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/b7cc7f47b6a08eb97d3146910ba3eb90.jpeg"
+        }
+      ],
+      "descriptifs": ["Européenne", "Africaine"],
+      "updated_at": {
+        "seconds": 1610898056,
+        "nanoseconds": 942000000
+      },
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/d789529291b3a73a1d3f4dc74cb638d2.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/4955cfb549ded343fc60a7ed25bf172e.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/83d9e70601a749a8c748ee50e85781bc.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/afb8c5f48ac27d047e95d294dac34d97.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/63853af7fbce71f8146cfb8c1aa264f3.jpeg"
+        }
+      ],
+      "days": {
+        "monday": [
+          {
+            "open": "1800",
+            "close": "0000",
+            "isOpen": true,
+            "id": "1"
+          }
+        ],
+        "tuesday": [
+          {
+            "close": "0000",
+            "isOpen": true,
+            "id": "2",
+            "open": "1800"
+          }
+        ],
+        "wednesday": [
+          {
+            "isOpen": true,
+            "close": "0000",
+            "open": "1800",
+            "id": "3"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "1800",
+            "close": "0000",
+            "id": "4",
+            "isOpen": true
+          }
+        ],
+        "friday": [
+          {
+            "id": "5",
+            "open": "1800",
+            "close": "0000",
+            "isOpen": true
+          }
+        ],
+        "saturday": [
+          {
+            "open": "1800",
+            "id": "6",
+            "isOpen": true,
+            "close": "0000"
+          }
+        ],
+        "sunday": [
+          {
+            "close": "0000",
+            "id": "7",
+            "open": "1800",
+            "isOpen": true
+          }
+        ]
+      },
+      "email": [""],
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/e17dd83acb98d2ae8b374021a7ee3a03.jpeg"
+      },
+      "category": {
+        "imageRef": "",
+        "translation": {
+          "fr": "Foreign Cuisines"
+        },
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fforeign.png?alt=media&token=56daead6-bab2-43bc-8fe3-68942c3278fb",
+        "order": 2,
+        "color_dark": "#184079",
+        "name": {
+          "fr": "Cuisines étrangeres",
+          "en": "Foreign Cuisines"
+        },
+        "color": "#3070d7",
+        "friendly_url": "foreign-cuisines",
+        "id": "foreign-cuisines"
+      },
+      "location": {
+        "lng": 9.700707200000002,
+        "lat": 4.0203335,
+        "name": "Carrefour hotel de l’Air, Bonapriso"
+      },
+      "have_open_days": true,
+      "address": {
+        "city": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDouala.jpg?alt=media&token=3df28882-0326-4c59-8063-a5d7fb8c2b06",
+          "id": "Zik5EyDvLkwpvCmfUxYy",
+          "lastUpdated": 1604228365841,
+          "imageRef": "/city_images/Douala.jpg",
+          "country": {
+            "translations": {
+              "es": "Camerún",
+              "fr": "Cameroun",
+              "br": "Camarões",
+              "pt": "Camarões",
+              "fa": "کامرون",
+              "it": "Camerun",
+              "de": "Kamerun",
+              "hr": "Kamerun",
+              "ja": "カメルーン",
+              "nl": "Kameroen"
+            },
+            "timeZone": "Etc/GMT+1",
+            "timezone": "UTC+01:00",
+            "id": "7SuyvOpqIOM5f3Ep3ImK",
+            "text": "Cameroon",
+            "callingCodes": ["237"],
+            "code": "+237",
+            "name": "Cameroon",
+            "currency": "XAF",
+            "translation": {
+              "fr": "Cameroun"
+            }
+          },
+          "name": "Douala",
+          "translation": {
+            "fr": "Douala"
+          }
+        },
+        "country": {
+          "translation": {
+            "fr": "Cameroun"
+          },
+          "id": "7SuyvOpqIOM5f3Ep3ImK",
+          "translations": {
+            "it": "Camerun",
+            "nl": "Kameroen",
+            "fr": "Cameroun",
+            "de": "Kamerun",
+            "br": "Camarões",
+            "ja": "カメルーン",
+            "pt": "Camarões",
+            "hr": "Kamerun",
+            "fa": "کامرون",
+            "es": "Camerún"
+          },
+          "timezone": "UTC+01:00",
+          "timeZone": "Etc/GMT+1",
+          "name": "Cameroon",
+          "currency": "XAF",
+          "callingCodes": ["237"],
+          "text": "Cameroon",
+          "code": "+237"
+        },
+        "town": {
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Bonapriso, undefined Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Bonapriso, Douala et leurs menu et infos | Kathalog.net"
+          },
+          "secondColor": "#9e3dff",
+          "color": "#1aff29",
+          "city": {
+            "imageRef": "/city_images/Douala.jpg",
+            "name": "Douala",
+            "lastUpdated": 1604228365841,
+            "translation": {
+              "fr": "Douala"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDouala.jpg?alt=media&token=3df28882-0326-4c59-8063-a5d7fb8c2b06"
+          },
+          "lastUpdated": 1603650746191,
+          "translation": {
+            "fr": "Bonapriso"
+          },
+          "cityName": "Douala",
+          "id": "5D0mbyPpQqxqPiokQmp0",
+          "name": "Bonapriso"
+        }
+      },
+      "average_price": 7500,
+      "created_at": {
+        "seconds": 1608312789,
+        "nanoseconds": 138000000
+      },
+      "phone_numbers": ["+237 +237 699 910 166"],
+      "web_site": [""],
+      "id": "1dgXaefWOqNpXTDTNsz4",
+      "tags": []
+    },
+    {
+      "have_open_days": true,
+      "seo": {
+        "en": "Street Food, Marcory, Abidjan - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net",
+        "fr": "Street Food, Marcory, Abidjan - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net"
+      },
+      "web_site": ["https://facebook.com/streetfoodci"],
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/05985c2ed3e48f55b39e86a418245c76.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6d119dca70885e2d728f2ae781624525.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/c0e36dbf79a323dc5026173fc47b3cb0.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/3eb32c76f005cfea40d0d9fd8e7460cb.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/0fa7a4d067caa9917bf28e3c77f94bd2.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/d1218f6fb82cf4c86fd4a050e4d4e78d.jpeg"
+        }
+      ],
+      "created_at": {
+        "seconds": 1608312688,
+        "nanoseconds": 278000000
+      },
+      "other_infos": ["Livraisons", "Terrasse"],
+      "address": {
+        "country": {
+          "name": "Côte d'Ivoire",
+          "text": "Côte d'Ivoire",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+          },
+          "id": "j3TVG3VNizkgFQA10BYq",
+          "callingCodes": ["225"],
+          "currency": "XOF",
+          "translations": {
+            "es": "Costa de Marfil",
+            "br": "Costa do Marfim",
+            "it": "Costa D'Avorio",
+            "pt": "Costa do Marfim",
+            "fa": "ساحل عاج",
+            "hr": "Obala Bjelokosti",
+            "nl": "Ivoorkust",
+            "fr": "Côte d'Ivoire",
+            "ja": "コートジボワール",
+            "de": "Elfenbeinküste"
+          },
+          "timezone": "UTC"
+        },
+        "city": {
+          "country": {
+            "name": "Côte d'Ivoire",
+            "currency": "XOF",
+            "seo": {
+              "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+              "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+            },
+            "callingCodes": ["225"],
+            "text": "Côte d'Ivoire",
+            "id": "j3TVG3VNizkgFQA10BYq",
+            "translations": {
+              "pt": "Costa do Marfim",
+              "nl": "Ivoorkust",
+              "es": "Costa de Marfil",
+              "it": "Costa D'Avorio",
+              "br": "Costa do Marfim",
+              "fa": "ساحل عاج",
+              "hr": "Obala Bjelokosti",
+              "de": "Elfenbeinküste",
+              "ja": "コートジボワール",
+              "fr": "Côte d'Ivoire"
+            },
+            "timezone": "UTC"
+          },
+          "id": "uM6dDZt8SfUY1jCk6yRx",
+          "name": "Abidjan",
+          "imageRef": "/city_images/Abidjan.jpg",
+          "lastUpdated": 1606766510719,
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FAbidjan.jpg?alt=media&token=0361d12e-4de5-4db3-9f26-d40d1a86c5a6",
+          "translation": {
+            "fr": "Abidjan"
+          },
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Abidjan, Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Abidjan, Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+          }
+        },
+        "town": {
+          "secondColor": "#b92d5d",
+          "lastUpdated": 1606766789783,
+          "color": "#011d57",
+          "city": {
+            "name": "Abidjan",
+            "lastUpdated": 1606766510719,
+            "imageRef": "/city_images/Abidjan.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FAbidjan.jpg?alt=media&token=0361d12e-4de5-4db3-9f26-d40d1a86c5a6",
+            "country": {
+              "callingCodes": ["225"],
+              "translations": {
+                "es": "Costa de Marfil",
+                "fa": "ساحل عاج",
+                "fr": "Côte d'Ivoire",
+                "de": "Elfenbeinküste",
+                "ja": "コートジボワール",
+                "pt": "Costa do Marfim",
+                "nl": "Ivoorkust",
+                "hr": "Obala Bjelokosti",
+                "br": "Costa do Marfim",
+                "it": "Costa D'Avorio"
+              },
+              "text": "Côte d'Ivoire",
+              "name": "Côte d'Ivoire",
+              "id": "j3TVG3VNizkgFQA10BYq",
+              "timezone": "UTC",
+              "currency": "XOF",
+              "seo": {
+                "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+                "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+              }
+            },
+            "seo": {
+              "en": "The Best Restaurants where to go out and eat in Abidjan, Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+              "fr": "Les Meilleurs Restaurants où sortir et manger à Abidjan, Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+            },
+            "translation": {
+              "fr": "Abidjan"
+            }
+          },
+          "id": "Im8nAWdGJfx05lYzDEna",
+          "name": "Marcory",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Marcory, Abidjan et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Marcory, undefined Cameroon and their menu and info | Kathalog.net"
+          }
+        }
+      },
+      "location": {
+        "lng": -3.9824095,
+        "lat": 5.2926347,
+        "name": "Rue Pierre Marie Curie, Zone 4, Marcory"
+      },
+      "descriptifs": ["Burger", "Sandwicherie"],
+      "name": "Street Food",
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/ed61b7756ab0596a2630e6380d3c68ef.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/7ad0e201656b667bfcde9eb8b3d0346b.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/151183e163ebfa4a2fd381f4994e1c25.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/2ee6be00d29bf2e2b328a6958381b8bb.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/8cf6a2de509168c2fa5b5cc0cd31b9e1.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/b260f35581ef8c0529598eba2e60edbf.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/5d48ff26ee633837a24defef3679f02c.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/70f572f3c91527a0723aa7edccb55faa.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/0112088dcf9ddc7997a5de30ecee597b.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/7a563adc2c17f1c7c52782204ffed4d0.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/5f09f519c5ae9620a63c9828b3ad11aa.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/3b96affe974c7df5e553aca14893f80f.jpeg"
+        }
+      ],
+      "days": {
+        "monday": [
+          {
+            "id": "1",
+            "close": "0000",
+            "isOpen": true,
+            "open": "1100"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "1100",
+            "isOpen": true,
+            "id": "2",
+            "close": "0000"
+          }
+        ],
+        "wednesday": [
+          {
+            "isOpen": true,
+            "close": "0000",
+            "id": "3",
+            "open": "1100"
+          }
+        ],
+        "thursday": [
+          {
+            "id": "4",
+            "isOpen": true,
+            "open": "1100",
+            "close": "0000"
+          }
+        ],
+        "friday": [
+          {
+            "id": "5",
+            "close": "0000",
+            "isOpen": true,
+            "open": "1100"
+          }
+        ],
+        "saturday": [
+          {
+            "isOpen": true,
+            "open": "1100",
+            "id": "6",
+            "close": "0000"
+          }
+        ],
+        "sunday": [
+          {
+            "isOpen": true,
+            "id": "7",
+            "open": "1100",
+            "close": "0000"
+          }
+        ]
+      },
+      "order": 364,
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/3175b78bd5221673b29001d249257680.jpeg"
+      },
+      "phone_numbers": [" +225 07 01 11 12"],
+      "email": [""],
+      "view_number": 466,
+      "category": {
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fcafe.png?alt=media&token=dedfd095-6b81-4cb3-a61d-417f9f6f1016",
+        "name": {
+          "fr": "Cafés, Fast foods & Pizzas",
+          "en": "Cafés, Fast foods & Pizzas"
+        },
+        "friendly_url": "cafés,-fast-foods-&-pizzas",
+        "color": "#ff872b",
+        "order": 3,
+        "id": "cafes-fast-foods-and-pizzas",
+        "translation": {
+          "fr": "Cafés, Fast foods & Pizzas"
+        },
+        "imageRef": "",
+        "color_dark": "#853f11"
+      },
+      "average_price": 5000,
+      "friendly_url": "street-food",
+      "id": "1dlxzTIdZgKQWyxei6SR",
+      "tags": []
+    },
+    {
+      "order": 429,
+      "average_price": 6000,
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/f8628a5f5f8ef243665b60bca8eb637a.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/e4d02e747f63e1f45ea28db6af2f49d6.jpeg"
+        }
+      ],
+      "email": [""],
+      "web_site": [""],
+      "view_number": 177,
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/d55eaf0c2ad26f150158a56f649c9520.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/0d4ce6b0d315f5fb8c44a6202a93c065.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/44676ee014c4de5db2a4935af60f8baf.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/d6d6c0ac881365064ce7480904767ab1.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/6118a455b4e130ca9c3c512d659a1400.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/f6f8d0f84e574380e2f32f5bb417ebda.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/bbe4a584add0c856ef8be3b46a923dab.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/7b5227720f748b540b8e7bb8ff044ba0.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/398f740f0f08f16ed8e645dc56bdbed1.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/89b0e2e91ada197239c67a827844dc3d.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/37a04e046641b8224c0c5fbf25acb491.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/605726acf66bf20fffdc167babed7557.jpeg"
+        }
+      ],
+      "name": "Restaurant Coulisses",
+      "have_open_days": true,
+      "descriptifs": ["Française", "Européenne", "Africaine"],
+      "category": {
+        "id": "foreign-cuisines",
+        "name": {
+          "en": "Foreign Cuisines",
+          "fr": "Cuisines étrangeres"
+        },
+        "imageRef": "",
+        "color_dark": "#184079",
+        "order": 2,
+        "color": "#3070d7",
+        "translation": {
+          "fr": "Foreign Cuisines"
+        },
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fforeign.png?alt=media&token=56daead6-bab2-43bc-8fe3-68942c3278fb",
+        "friendly_url": "foreign-cuisines"
+      },
+      "phone_numbers": [" +225 78 06 06 24"],
+      "days": {
+        "monday": [
+          {
+            "close": "0200",
+            "id": "1",
+            "isOpen": true,
+            "open": "0700"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "0700",
+            "id": "2",
+            "close": "0200",
+            "isOpen": true
+          }
+        ],
+        "wednesday": [
+          {
+            "close": "0200",
+            "id": "3",
+            "isOpen": true,
+            "open": "0700"
+          }
+        ],
+        "thursday": [
+          {
+            "isOpen": true,
+            "open": "0700",
+            "id": "4",
+            "close": "0200"
+          }
+        ],
+        "friday": [
+          {
+            "close": "0200",
+            "open": "0700",
+            "id": "5",
+            "isOpen": true
+          }
+        ],
+        "saturday": [
+          {
+            "close": "0200",
+            "isOpen": true,
+            "open": "0700",
+            "id": "6"
+          }
+        ],
+        "sunday": [
+          {
+            "close": "0000",
+            "open": "1200",
+            "isOpen": true,
+            "id": "7"
+          }
+        ]
+      },
+      "location": {
+        "name": "Angre Djorogobite face a la pharmacie saint viateur, Côte d’Ivoire",
+        "lng": -3.9551272,
+        "lat": 5.386446799999999
+      },
+      "created_at": {
+        "seconds": 1608312786,
+        "nanoseconds": 240000000
+      },
+      "seo": {
+        "fr": "Restaurant Coulisses, Cocody, Abidjan - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net",
+        "en": "Restaurant Coulisses, Cocody, Abidjan - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net"
+      },
+      "friendly_url": "restaurant-coulisses",
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/9a39961df2ae818b8af5793e105ea17a.jpeg"
+      },
+      "other_infos": ["Disponible pour évènements", "Terrasse"],
+      "address": {
+        "city": {
+          "lastUpdated": 1606766510719,
+          "name": "Abidjan",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Abidjan, Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Abidjan, Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+          },
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FAbidjan.jpg?alt=media&token=0361d12e-4de5-4db3-9f26-d40d1a86c5a6",
+          "country": {
+            "id": "j3TVG3VNizkgFQA10BYq",
+            "name": "Côte d'Ivoire",
+            "seo": {
+              "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net",
+              "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net"
+            },
+            "text": "Côte d'Ivoire",
+            "currency": "XOF",
+            "translations": {
+              "fa": "ساحل عاج",
+              "de": "Elfenbeinküste",
+              "fr": "Côte d'Ivoire",
+              "ja": "コートジボワール",
+              "es": "Costa de Marfil",
+              "it": "Costa D'Avorio",
+              "nl": "Ivoorkust",
+              "pt": "Costa do Marfim",
+              "hr": "Obala Bjelokosti",
+              "br": "Costa do Marfim"
+            },
+            "callingCodes": ["225"],
+            "timezone": "UTC"
+          },
+          "id": "uM6dDZt8SfUY1jCk6yRx",
+          "translation": {
+            "fr": "Abidjan"
+          },
+          "imageRef": "/city_images/Abidjan.jpg"
+        },
+        "town": {
+          "id": "0AsecgVXLIF2aqkQiQvP",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Cocody, Abidjan et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Cocody, undefined Cameroon and their menu and info | Kathalog.net"
+          },
+          "city": {
+            "translation": {
+              "fr": "Abidjan"
+            },
+            "name": "Abidjan",
+            "imageRef": "/city_images/Abidjan.jpg",
+            "lastUpdated": 1606766510719,
+            "seo": {
+              "fr": "Les Meilleurs Restaurants où sortir et manger à Abidjan, Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+              "en": "The Best Restaurants where to go out and eat in Abidjan, Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FAbidjan.jpg?alt=media&token=0361d12e-4de5-4db3-9f26-d40d1a86c5a6",
+            "country": {
+              "currency": "XOF",
+              "translations": {
+                "ja": "コートジボワール",
+                "pt": "Costa do Marfim",
+                "es": "Costa de Marfil",
+                "it": "Costa D'Avorio",
+                "fa": "ساحل عاج",
+                "hr": "Obala Bjelokosti",
+                "de": "Elfenbeinküste",
+                "br": "Costa do Marfim",
+                "nl": "Ivoorkust",
+                "fr": "Côte d'Ivoire"
+              },
+              "timezone": "UTC",
+              "name": "Côte d'Ivoire",
+              "seo": {
+                "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+                "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+              },
+              "text": "Côte d'Ivoire",
+              "id": "j3TVG3VNizkgFQA10BYq",
+              "callingCodes": ["225"]
+            }
+          },
+          "color": "#450d59",
+          "secondColor": "#c3d117",
+          "name": "Cocody",
+          "lastUpdated": 1606766765856
+        },
+        "country": {
+          "text": "Côte d'Ivoire",
+          "callingCodes": ["225"],
+          "translations": {
+            "ja": "コートジボワール",
+            "nl": "Ivoorkust",
+            "pt": "Costa do Marfim",
+            "fr": "Côte d'Ivoire",
+            "es": "Costa de Marfil",
+            "fa": "ساحل عاج",
+            "de": "Elfenbeinküste",
+            "hr": "Obala Bjelokosti",
+            "br": "Costa do Marfim",
+            "it": "Costa D'Avorio"
+          },
+          "timezone": "UTC",
+          "currency": "XOF",
+          "id": "j3TVG3VNizkgFQA10BYq",
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger au Côte d'Ivoire et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Côte d'Ivoire Cameroon and their menu and info | Kathalog.net"
+          },
+          "name": "Côte d'Ivoire"
+        }
+      },
+      "id": "1lnTQFUXIs6JKWvYlx8L",
+      "tags": []
+    },
+    {
+      "profile_image": {
+        "url": "https://kathalog.net/admin/images/8649b29bbca5f7f5829224b2c5fdadec.jpeg"
+      },
+      "location": {
+        "lat": 14.75329,
+        "lng": -17.457094,
+        "name": "En venant de la Foire, première à gauche après le Yengoulène"
+      },
+      "average_price": 1000,
+      "phone_numbers": ["+221 +221 33 865 63 63"],
+      "days": {
+        "monday": [
+          {
+            "id": "1",
+            "isOpen": true,
+            "close": "2300",
+            "open": "0900"
+          }
+        ],
+        "tuesday": [
+          {
+            "id": "2",
+            "open": "0900",
+            "isOpen": true,
+            "close": "2300"
+          }
+        ],
+        "wednesday": [
+          {
+            "close": "2300",
+            "id": "3",
+            "isOpen": true,
+            "open": "0900"
+          }
+        ],
+        "thursday": [
+          {
+            "close": "2300",
+            "open": "0900",
+            "id": "4",
+            "isOpen": true
+          }
+        ],
+        "friday": [
+          {
+            "id": "5",
+            "open": "0900",
+            "close": "2300",
+            "isOpen": true
+          }
+        ],
+        "saturday": [
+          {
+            "id": "6",
+            "isOpen": true,
+            "close": "2300",
+            "open": "0900"
+          }
+        ],
+        "sunday": [
+          {
+            "close": "2300",
+            "isOpen": true,
+            "id": "7",
+            "open": "0900"
+          }
+        ]
+      },
+      "web_site": ["https://www.yumyum.sn/"],
+      "other_infos": ["Livraisons", "Plats à emporter", "Wifi"],
+      "menus": [
+        {
+          "url": "https://kathalog.net/admin/images/99d0db0b3367e8c460459f38bd09b0d4.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/1481c4297896fd94972b81d5d1e2cf6b.jpeg"
+        }
+      ],
+      "category": {
+        "id": "cafes-fast-foods-and-pizzas",
+        "friendly_url": "cafés,-fast-foods-&-pizzas",
+        "translation": {
+          "fr": "Cafés, Fast foods & Pizzas"
+        },
+        "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/categories_logo%2Fcafe.png?alt=media&token=dedfd095-6b81-4cb3-a61d-417f9f6f1016",
+        "imageRef": "",
+        "name": {
+          "fr": "Cafés, Fast foods & Pizzas",
+          "en": "Cafés, Fast foods & Pizzas"
+        },
+        "order": 3,
+        "color": "#ff872b",
+        "color_dark": "#853f11"
+      },
+      "address": {
+        "city": {
+          "id": "bJ5a7hBL1KPBU3JF1Hkf",
+          "translation": {
+            "fr": "Dakar"
+          },
+          "country": {
+            "callingCodes": ["221"],
+            "currency": "XOF",
+            "text": "Senegal",
+            "translations": {
+              "ja": "セネガル",
+              "pt": "Senegal",
+              "it": "Senegal",
+              "fr": "Sénégal",
+              "nl": "Senegal",
+              "de": "Senegal",
+              "br": "Senegal",
+              "hr": "Senegal",
+              "es": "Senegal",
+              "fa": "سنگال"
+            },
+            "timeZone": "+1",
+            "name": "Senegal",
+            "translation": {
+              "fr": "Sénégal"
+            },
+            "timezone": "UTC",
+            "id": "5g44jaEZQTShV4xpIGvB",
+            "code": "+221"
+          },
+          "seo": {
+            "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net",
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net"
+          },
+          "name": "Dakar",
+          "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+          "lastUpdated": 1604828999710,
+          "imageRef": "/city_images/Dakar.jpg"
+        },
+        "country": {
+          "text": "Senegal",
+          "code": "+221",
+          "id": "5g44jaEZQTShV4xpIGvB",
+          "name": "Senegal",
+          "callingCodes": ["221"],
+          "currency": "XOF",
+          "translation": {
+            "fr": "Sénégal"
+          },
+          "timezone": "UTC",
+          "timeZone": "+1",
+          "translations": {
+            "fr": "Sénégal",
+            "ja": "セネガル",
+            "br": "Senegal",
+            "hr": "Senegal",
+            "nl": "Senegal",
+            "fa": "سنگال",
+            "pt": "Senegal",
+            "it": "Senegal",
+            "de": "Senegal",
+            "es": "Senegal"
+          }
+        },
+        "town": {
+          "lastUpdated": 1606767756710,
+          "seo": {
+            "fr": "Les Meilleurs Restaurants où sortir et manger à Nord Foire, Dakar et leurs menu et infos | Kathalog.net",
+            "en": "The Best Restaurants where to go out and eat in Nord Foire, undefined Cameroon and their menu and info | Kathalog.net"
+          },
+          "name": "Nord Foire",
+          "secondColor": "#b92d5d",
+          "city": {
+            "translation": {
+              "fr": "Dakar"
+            },
+            "imageRef": "/city_images/Dakar.jpg",
+            "seo": {
+              "en": "The Best Restaurants where to go out and eat in Dakar, Senegal Cameroon and their menu and info | Kathalog.net",
+              "fr": "Les Meilleurs Restaurants où sortir et manger à Dakar, Sénégal et leurs menu et infos | Kathalog.net"
+            },
+            "name": "Dakar",
+            "lastUpdated": 1604828999710,
+            "image": "https://firebasestorage.googleapis.com/v0/b/kathalog-db20.appspot.com/o/city_images%2FDakar.jpg?alt=media&token=70b3cb5d-1d94-4978-a6e9-d1f6171173a4",
+            "country": {
+              "translations": {
+                "es": "Senegal",
+                "nl": "Senegal",
+                "it": "Senegal",
+                "de": "Senegal",
+                "fa": "سنگال",
+                "br": "Senegal",
+                "pt": "Senegal",
+                "hr": "Senegal",
+                "ja": "セネガル",
+                "fr": "Sénégal"
+              },
+              "currency": "XOF",
+              "timeZone": "+1",
+              "text": "Senegal",
+              "id": "5g44jaEZQTShV4xpIGvB",
+              "timezone": "UTC",
+              "code": "+221",
+              "name": "Senegal",
+              "callingCodes": ["221"],
+              "translation": {
+                "fr": "Sénégal"
+              }
+            }
+          },
+          "color": "#450d59",
+          "id": "Q4YsI4d4YAkPa9Wmib4m"
+        }
+      },
+      "seo": {
+        "fr": "Yum-Yum, Nord Foire, Dakar - Photos, Menu, infos&Contact Du Restaurant | Kathalog.net",
+        "en": "Yum-Yum, Nord Foire, Dakar - Pictures, Menu, infos&Restaurant Contacts | Kathalog.net"
+      },
+      "descriptifs": ["Pizzas", "Pâtisseries"],
+      "order": 254,
+      "have_open_days": true,
+      "view_number": 450,
+      "friendly_url": "yum-yum",
+      "images": [
+        {
+          "url": "https://kathalog.net/admin/images/9f724ae493643e5114ad01c6eb99d439.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/50eb9e6e6aa8e3705e7424ef58727414.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/4cb3608a884961d317488e1db7502601.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/210354b52f885646ce6cbce1094037c8.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/dc885140abee19dd8806228fdfc9bf12.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/be6b62640b4483836ad17407a369e020.jpeg"
+        },
+        {
+          "url": "https://kathalog.net/admin/images/451cee8e1120465214c81a552d0af8a7.jpeg"
+        }
+      ],
+      "created_at": {
+        "seconds": 1608312692,
+        "nanoseconds": 77000000
+      },
+      "name": "Yum-Yum",
+      "email": [""],
+      "id": "1qvPsnpxBZj3H3ldm022",
+      "tags": []
+    }
+  ]
+}
